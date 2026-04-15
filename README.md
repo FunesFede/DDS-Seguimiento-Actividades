@@ -22,7 +22,7 @@ Bajamos hasta el final de la página, hacemos clic en `Seleccionar todas las cue
 
 ![](images/export_p_csv.png)
 
-Se puede encontrar un ejemplo de lo exportado dentro en [examples/c_participants.csv](examples/c_participants.csv)
+> Se puede encontrar un ejemplo de lo exportado dentro en [examples/c_participants.csv](examples/c_participants.csv)
 
 ## 1.2. Archivo CSV de cuestionarios
 
@@ -30,7 +30,7 @@ Para obtener el archivo CSV de los cuestionarios/pregunteros, solo es necesario 
 
 ![](images/export_c_csv.png)
 
-Se puede encontrar un ejemplo de lo exportado dentro en [examples/cuestionario1.csv](examples/cuestionario1.csv)
+> Se puede encontrar un ejemplo de lo exportado dentro en [examples/cuestionario1.csv](examples/cuestionario1.csv)
 
 ## 1.3. Archivo CSV de los foros
 
@@ -44,7 +44,7 @@ Una vez dentro, desactivamos `Posts from` y `Posts to`, nos aseguramos que el fo
 
 Finalmente exportamos.
 
-Se puede encontrar un ejemplo de lo exportado dentro en [examples/discussion.csv](examples/discussion.csv)
+> Se puede encontrar un ejemplo de lo exportado dentro en [examples/discussion.csv](examples/discussion.csv)
 
 # 2. Usando los scripts
 
@@ -55,7 +55,7 @@ Todos los scripts se pueden encontrar dentro de la carpeta [/scripts](scripts) d
 El script [mark_questions.py](scripts/mark_questions.py) está destinado a editar el source file (o generar uno nuevo) para agregar una nueva columna con el nombre del archivo del preguntero o cuestionario.
 
 > [!TIP]
-> Es recomendable (o más fácil en todo sentido) editar el nombre del archivo CSV del cuestionario con el nombre que le querramos dar a la columna en nuestro source file, dado por el hecho de que Moodle exporta los CSV con nombres bastantes largos.
+> Es recomendable (o más fácil en todo sentido) editar el nombre del archivo CSV del cuestionario con el nombre que le queramos dar a la columna en nuestro source file, dado por el hecho de que Moodle exporta los CSV con nombres bastantes largos.
 
 ### 2.1.1. Uso
 ```
@@ -71,7 +71,7 @@ En su uso correcto, el script va a indicar que el marcado fue correcto, que se m
 
 ![](images/output_mq.png)
 
-El respectivo output se puede encontrar en [examples/c1_participants.csv](examples/c1_participants.csv)
+> El respectivo output se puede encontrar en [examples/c1_participants.csv](examples/c1_participants.csv)
 
 ## 2.2. Script: mark_discussions.csv
 
@@ -88,7 +88,7 @@ Donde:
 - (Opcionalmente) `output.csv`: Podemos especificar el nombre del archivo a crear para no sobreescribir nuestro source file si es que así lo deseamos.
 
 > [!CAUTION]
-> Debido a que Moodle cuando exporta los foros, el userId que exporta es el ID interno de Moodle, y no los legajos... el script **une** los nombres del source file, para luego comprar contra el `userfullname`. Estamos propensos a errores...
+> Debido a que Moodle cuando exporta los foros, el userId que exporta es el ID interno de Moodle, y no los legajos... el script **une** los nombres del source file, para luego comparar contra el `userfullname`. Estamos propensos a errores...
 
 > [!NOTE]
 > Y como información extra con respecto a la nota de arriba, y volviendo a recordar, todos los archivos obtenidos desde Moodle **deben estar en inglés**, es decir, al momento de exportar **debemos cambiar el idioma de Moodle a inglés**, si es que la utilizamos en español.
@@ -97,4 +97,4 @@ En su uso correcto, el script va a indicar que `subjects` encontró, si las creo
 
 ![](images/output_md.png)
 
-El respectivo output se puede encontrar en [examples/d_participants.csv](examples/d_participants.csv)
+> El respectivo output se puede encontrar en [examples/d_participants.csv](examples/d_participants.csv)
