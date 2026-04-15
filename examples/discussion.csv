@@ -1,0 +1,1362 @@
+﻿id,discussion,parent,userid,userfullname,created,modified,mailed,subject,message,messageformat,messagetrust,attachment,totalscore,mailnow,deleted,privatereplyto,privatereplytofullname,wordcount,charcount
+173195,85585,0,5182,"Javier Ignacio Iglesias","Thursday, 19 March 2026, 2:01 PM","Thursday, 19 March 2026, 2:01 PM",1,"Ejercicio de Git","contestar con el link del repo en donde hicieron el ejercicio
+",2,1,0,0,0,0,0,,11,51
+173196,85585,173195,77413,"Ismael Villalba","Thursday, 19 March 2026, 2:01 PM","Thursday, 19 March 2026, 2:01 PM",1,"Ejercicio de Git","Participe en sala 15 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/87060/87060_408765_409203_415184_410343_408425_412550_409171_98520_415184",2,0,0,0,0,0,0,,6,173
+173197,85585,173195,216530,"Christopher Leyton","Thursday, 19 March 2026, 2:02 PM","Thursday, 19 March 2026, 2:02 PM",1,"Ejercicio de Git","Participe en sala 8 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/utils-409476-85307-404568-414649-400153-89651-408678-92319-94825-409142.git",2,0,0,0,0,0,0,,6,181
+173198,85585,173195,198546,"Facundo Agustín Coronel","Thursday, 19 March 2026, 2:02 PM","Thursday, 19 March 2026, 2:02 PM",1,"Ejercicio de Git","Participe en sala 3 URL: https://github.com/UriPrevo-409036/gitdemo-sala-3.git",2,0,0,0,0,0,0,,6,73
+173199,85585,173195,204190,"Lucas Marcelo Mesconi","Thursday, 19 March 2026, 2:03 PM","Thursday, 19 March 2026, 2:03 PM",1,"Ejercicio de Git","Participe en la sala 9. matematicas-406485.js
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/utils-409592-90616-406485-410485-410766-408414-409275-410766-409837-410576.git",2,0,0,0,0,0,0,,7,204
+173200,85585,173195,105873,"Lautaro Santillan","Thursday, 19 March 2026, 2:03 PM","Thursday, 19 March 2026, 2:03 PM",1,"Ejercicio de Git","Participé en la sala 2 URL: https://github.com/lucianofelice/utils-413077-402554-400784-404720-408492-96794-77520-409359-407680",2,0,0,0,0,0,0,,7,121
+173201,85585,173195,215673,"Valentín Ignacio Peralta Mamondi","Thursday, 19 March 2026, 2:03 PM","Thursday, 19 March 2026, 2:03 PM",1,"Ejercicio de Git","participé en la sala 3: url https://github.com/UriPrevo-409036/gitdemo-sala-3.git",2,0,0,0,0,0,0,,7,75
+173202,85585,173195,208782,"Ezequiel Purro","Thursday, 19 March 2026, 2:03 PM","Thursday, 19 March 2026, 2:03 PM",1,"Ejercicio de Git","Participe en sala 8 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/utils-409476-85307-404568-414649-400153-89651-408678-92319-94825-409142.git",2,0,0,0,0,0,0,,6,181
+173203,85585,173195,213994,"Luciano Felice","Thursday, 19 March 2026, 2:04 PM","Thursday, 19 March 2026, 2:04 PM",1,"Ejercicio de Git","Participé en la sala 2, URL: https://github.com/lucianofelice/utils-413077-402554-400784-404720-408492-96794-77520-409359-407680",2,0,0,0,0,0,0,,7,122
+173204,85585,173195,86743,"Lucas Callamullo","Thursday, 19 March 2026, 2:04 PM","Thursday, 19 March 2026, 2:04 PM",1,"Ejercicio de Git","Participé en la sala 2 URL: https://github.com/lucianofelice/utils-413077-402554-400784-404720-408492-96794-77520-409359-407680",2,0,0,0,0,0,0,,7,121
+173205,85585,173195,216047,"Joaquin Lario Garcia","Thursday, 19 March 2026, 2:04 PM","Thursday, 19 March 2026, 2:04 PM",1,"Ejercicio de Git","Participe en sala 15
+URL:
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/87060/87060_408765_409203_415184_410343_408425_412550_409171_98520_415184",2,0,0,0,0,0,0,,6,173
+173206,85585,173195,215672,"Lucía Martínez","Thursday, 19 March 2026, 2:05 PM","Thursday, 19 March 2026, 2:05 PM",1,"Ejercicio de Git","Participé en la sala 14, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils-81669",2,0,0,0,0,0,0,,7,120
+173207,85585,173195,216314,"Lautaro Ezequiel Rodriguez","Thursday, 19 March 2026, 2:05 PM","Thursday, 19 March 2026, 2:05 PM",1,"Ejercicio de Git","Participe en la sala 04 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/utils-411910-94455-403717-414215-410777-408359-401886-400113-409823-413194.git",2,0,0,0,0,0,0,,7,187
+173208,85585,173195,207614,"María Virginia Cavallero","Thursday, 19 March 2026, 2:05 PM","Thursday, 19 March 2026, 2:05 PM",1,"Ejercicio de Git","Participé en la sala 2 https://github.com/lucianofelice/utils-413077-402554-400784-404720-408492-96794-77520-409359-407680.git",2,0,0,0,0,0,0,,6,121
+173209,85585,173195,216037,"Mateo Montovani","Thursday, 19 March 2026, 2:07 PM","Thursday, 19 March 2026, 2:07 PM",1,"Ejercicio de Git","Participé en la sala 9: URL https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/utils-409592-90616-406485-410485-410766-408414-409275-410766-409837-410576",2,0,0,0,0,0,0,,7,182
+173210,85585,173195,207613,"Milagros Palacios Sesto","Thursday, 19 March 2026, 2:08 PM","Thursday, 19 March 2026, 2:08 PM",1,"Ejercicio de Git","Participé en la Sala 3. URL: https://github.com/UriPrevo-409036/gitdemo-sala-3",2,0,0,0,0,0,0,,7,72
+173211,85585,173195,214714,"Martina Barrenechea","Thursday, 19 March 2026, 2:08 PM","Thursday, 19 March 2026, 2:08 PM",1,"Ejercicio de Git","Participe en sala 15 - URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/87060/87060_408765_409203_415184_410343_408425_412550_409171_98520_415184",2,0,0,0,0,0,0,,7,174
+173212,85585,173195,103528,"Joaquín Delic","Thursday, 19 March 2026, 2:09 PM","Thursday, 19 March 2026, 2:09 PM",1,"Ejercicio de Git","Participe en la sala 4 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/utils-411910-94455-403717-414215-410777-408359-401886-400113-409823-413194.git",2,0,0,0,0,0,0,,7,186
+173214,85585,173195,201418,"Oriana Karen Velásquez Portal","Thursday, 19 March 2026, 3:06 PM","Thursday, 19 March 2026, 3:06 PM",1,"Ejercicio de Git","Participe en sala 4: URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/utils-411910-94455-403717-414215-410777-408359-401886-400113-409823-413194.git",2,0,0,0,0,0,0,,6,185
+173215,85585,173195,199422,"Valentin Mansilla","Thursday, 19 March 2026, 3:11 PM","Thursday, 19 March 2026, 3:11 PM",1,"Ejercicio de Git","Participe en sala 4: URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/utils-411910-94455-403717-414215-410777-408359-401886-400113-409823-413194.git",2,0,0,0,0,0,0,,6,185
+173216,85585,173195,215817,"Luciano Cipolla Delcantare","Thursday, 19 March 2026, 3:15 PM","Thursday, 19 March 2026, 3:15 PM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-408808.git,2,0,0,0,0,0,0,,1,109
+173217,85585,173195,215837,"Facundo Ezequiel Fiorani","Thursday, 19 March 2026, 3:16 PM","Thursday, 19 March 2026, 3:16 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-408808
+Participantes: Santiago Mateo Gamond- 408814, Luciano Cipolla - 408808, Facundo Fiorani - 408832",2,0,0,0,0,0,0,,14,189
+173218,85585,173195,215821,"Santiago Mateo Gamond","Thursday, 19 March 2026, 3:18 PM","Thursday, 19 March 2026, 3:18 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-408808.git
+Por alguna razon se borra mi legajo de la url: 408814",2,0,0,0,0,0,0,,12,152
+173219,85585,173195,199688,"José Francisco Pizarro","Thursday, 19 March 2026, 3:19 PM","Thursday, 19 March 2026, 3:19 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402123/utils-402123-403687-98520-400182.git
+Lo hice con otros compañeros, no con los de la sala.",2,0,0,0,0,0,0,,12,164
+173221,85585,173195,210042,"Magali Agostina Vivas Garay","Thursday, 19 March 2026, 3:37 PM","Thursday, 19 March 2026, 3:37 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409508/utils-410714-409508.git
+Comparñero: Vivas Magali 410714 Porras Montserrat 409508",2,0,0,0,0,0,0,,8,159
+173222,85585,173195,208813,"Montserrat Aidalé Rosalia Porras Salazar","Thursday, 19 March 2026, 3:37 PM","Thursday, 19 March 2026, 3:37 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409508/utils-410714-409508.git compañera: Vivas, Magali 410714. Porras, Montserrat 409508.",2,0,0,0,0,0,0,,8,162
+173225,85585,173195,209842,"Mateo Machuca","Thursday, 19 March 2026, 3:57 PM","Thursday, 19 March 2026, 3:57 PM",1,"Ejercicio de Git","Participe en sala 11, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/sala11-410535-409515-96202-402077-410638-408733-409746-400916-400615-409673",2,0,0,0,0,0,0,,6,183
+173226,85585,173195,209967,"Franco Ezequiel Cordoba","Thursday, 19 March 2026, 3:57 PM","Thursday, 19 March 2026, 3:57 PM",1,"Ejercicio de Git","Participe en sala 11, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/sala11-410535-409515-96202-402077-410638-408733-409746-400916-400615-409673",2,0,0,0,0,0,0,,6,183
+173227,85585,173195,208820,"Federico Emiliano Canova","Thursday, 19 March 2026, 3:57 PM","Thursday, 19 March 2026, 3:57 PM",1,"Ejercicio de Git","Participe en sala 11. URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/sala11-410535-409515-96202-402077-410638-408733-409746-400916-400615-409673",2,0,0,0,0,0,0,,6,183
+173228,85585,173195,198450,"Bruno Agustin Galván","Thursday, 19 March 2026, 3:58 PM","Thursday, 19 March 2026, 3:58 PM",1,"Ejercicio de Git","Participe en sala 11, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/sala11-410535-409515-96202-402077-410638-408733-409746-400916-400615-409673",2,0,0,0,0,0,0,,6,183
+173229,85585,173195,166953,"Rodrigo Ezequiel Ortiz","Thursday, 19 March 2026, 3:58 PM","Thursday, 19 March 2026, 3:58 PM",1,"Ejercicio de Git","Participe en sala 11, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/sala11-410535-409515-96202-402077-410638-408733-409746-400916-400615-409673",2,0,0,0,0,0,0,,6,183
+173231,85585,173195,209603,"Lautaro Gabriel Bautista","Thursday, 19 March 2026, 3:59 PM","Thursday, 19 March 2026, 4:01 PM",1,"Ejercicio de Git","Realicé el ejercicio en este repositorio con otros compañeros que no son de la sala: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410304/utils-410304-411150.git",2,0,0,0,0,0,0,,16,179
+173232,85585,173195,211975,"Ramiro Lujan","Thursday, 19 March 2026, 4:01 PM","Thursday, 19 March 2026, 4:01 PM",1,"Ejercicio de Git","Lo hice con otro compañero, no con los de la sala.
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410304/utils-410304-411150.git",2,0,0,0,0,0,0,,12,149
+173234,85585,173195,215023,"Constanza Aguirre","Thursday, 19 March 2026, 4:06 PM","Thursday, 19 March 2026, 4:06 PM",1,"Ejercicio de Git","Participe en sala 11, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/sala11-410535-409515-96202-402077-410638-408733-409746-400916-400615-409673",2,0,0,0,0,0,0,,6,183
+173236,85585,173195,209041,"Lucas Pereyra","Thursday, 19 March 2026, 4:10 PM","Thursday, 19 March 2026, 4:10 PM",1,"Ejercicio de Git","Participe en sala 11, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/sala11-410535-409515-96202-402077-410638-408733-409746-400916-400615-409673
+",2,0,0,0,0,0,0,,6,183
+173237,85585,173195,259458,"Sofi Sarasola","Thursday, 19 March 2026, 4:13 PM","Thursday, 19 March 2026, 4:13 PM",1,"Ejercicio de Git","Link del repositorio sala 10 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414915/hola5",2,0,0,0,0,0,0,,7,119
+173240,85585,173195,199004,"Agustín Nicolás Oliva","Thursday, 19 March 2026, 4:48 PM","Thursday, 19 March 2026, 4:48 PM",1,"Ejercicio de Git","Participé en la sala 14, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils-81669",2,0,0,0,0,0,0,,7,120
+173241,85585,173195,215817,"Luciano Cipolla Delcantare","Thursday, 19 March 2026, 4:55 PM","Thursday, 19 March 2026, 4:55 PM",1,"Ejercicio de Git","Participé en la sala 14, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils-81669",2,0,0,0,0,0,0,,7,120
+173242,85585,173195,215681,"Santiago Peretti","Thursday, 19 March 2026, 4:56 PM","Thursday, 19 March 2026, 4:56 PM",1,"Ejercicio de Git","participe en la sala 14: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils-81669.git",2,0,0,0,0,0,0,,6,120
+173243,85585,173195,208787,"María Lourdes Gor","Thursday, 19 March 2026, 5:07 PM","Thursday, 19 March 2026, 5:07 PM",1,"Ejercicio de Git","Participe en la sala 14, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils-81669.git",2,0,0,0,0,0,0,,7,124
+173245,85585,173195,215606,"Denise Nagel","Thursday, 19 March 2026, 5:14 PM","Thursday, 19 March 2026, 5:14 PM",1,"Ejercicio de Git","Participe en la sala 9: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/utils-409592-90616-406485-410485-410766-408414-409275-410766-409837-410576.git",2,0,0,0,0,0,0,,6,183
+173246,85585,173195,208454,"Martin Alejandro Del Zotto","Thursday, 19 March 2026, 5:32 PM","Thursday, 19 March 2026, 5:32 PM",1,"Ejercicio de Git","Participe en sala 8 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/utils-409476-85307-404568-414649-400153-89651-408678-92319-94825-409142.git",2,0,0,0,0,0,0,,6,181
+173248,85585,173195,208544,"Joaquin Andres Cagliero Palma","Thursday, 19 March 2026, 6:00 PM","Thursday, 19 March 2026, 6:00 PM",1,"Ejercicio de Git","Participe en sala 12 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/utils-411949-409893-408581-409819-409233-408720-408762-409595.git",2,0,0,0,0,0,0,,6,172
+173252,85585,173195,199642,"Mayra Errigo","Thursday, 19 March 2026, 6:28 PM","Thursday, 19 March 2026, 6:28 PM",1,"Ejercicio de Git","URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401392/utils-401392-402077.git
+Integrantes: Errigo Mayra 402077, Porto Andrés 401392",2,0,0,0,0,0,0,,9,160
+173253,85585,173195,198933,"Andrés Porto","Thursday, 19 March 2026, 6:28 PM","Thursday, 19 March 2026, 6:28 PM",1,"Ejercicio de Git","Integrantes: Porto Andres 401392, Errigo, Mayra 402077
+URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401392/utils-401392-402077.git",2,0,0,0,0,0,0,,9,161
+173254,85585,173195,198442,"Lucas Ezequiel Sander","Thursday, 19 March 2026, 6:41 PM","Thursday, 19 March 2026, 6:41 PM",1,"Ejercicio de Git","Participé en la sala 10, URL:https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414915/hola5.git",2,0,0,0,0,0,0,,6,119
+173255,85585,173195,202352,"Carolina Constanza Pereyra","Thursday, 19 March 2026, 6:42 PM","Thursday, 19 March 2026, 6:42 PM",1,"Ejercicio de Git","Participe en sala 8 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/utils-409476-85307-404568-414649-400153-89651-408678-92319-94825-409142.git",2,0,0,0,0,0,0,,6,181
+173266,85585,173195,208515,"Nicolas Kiriachek","Thursday, 19 March 2026, 8:22 PM","Thursday, 19 March 2026, 8:22 PM",1,"Ejercicio de Git","Participe en sala 15 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/87060/87060_408765_409203_415184_410343_408425_412550_409171_98520_415184",2,0,0,0,0,0,0,,6,173
+173269,85585,173195,84989,"Alejo Cruz Lescano","Thursday, 19 March 2026, 8:44 PM","Thursday, 19 March 2026, 8:44 PM",1,"Ejercicio de Git","Participe en sala 9 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/utils-409592-90616-406485-410485-410766-408414-409275-410766-409837-410576/-/tree/master",2,0,0,0,0,0,0,,6,194
+173270,85585,173195,208514,"Nicolás Martín Terreno Cortés","Thursday, 19 March 2026, 8:49 PM","Thursday, 19 March 2026, 8:49 PM",1,"Ejercicio de Git","Participe en sala 5 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409202/utils-409202-400979-94113-411352-414813.git",2,0,0,0,0,0,0,,6,149
+173271,85585,173195,219590,"Melgarejo Camila Ariadna Melgarejo","Thursday, 19 March 2026, 8:50 PM","Thursday, 19 March 2026, 8:50 PM",1,"Ejercicio de Git","participe en la sala 8 URL : https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/utils-409476-85307-404568-414649-400153-89651-408678-92319-94825-409142.git",2,0,0,0,0,0,0,,8,183
+173273,85585,173195,215561,"Lucas Alejandro González Tempel","Thursday, 19 March 2026, 9:05 PM","Thursday, 19 March 2026, 9:05 PM",1,"Ejercicio de Git","Participe en sala 10 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/utils-408335-414915-409404-410716-410903-95400-96990-400908-409078-409339.git",2,0,0,0,0,0,0,,6,177
+173278,85585,173208,207614,"María Virginia Cavallero","Thursday, 19 March 2026, 9:21 PM","Thursday, 19 March 2026, 9:21 PM",1,"Ejercicio de Git","También participé luego de la clase en https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/utils-410043-408492-413194.git",2,0,0,0,0,0,0,,8,148
+173279,85585,173195,214124,"Belen Micaela Marietti","Thursday, 19 March 2026, 9:22 PM","Thursday, 19 March 2026, 9:22 PM",1,"Ejercicio de Git","Participé luego de la clase en https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/utils-410043-408492-413194.git",2,0,0,0,0,0,0,,7,141
+173280,85585,173195,209331,"Daniela Roberta Mercado Gonzales","Thursday, 19 March 2026, 9:24 PM","Thursday, 19 March 2026, 9:24 PM",1,"Ejercicio de Git","Participe en sala 1 https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/utils-410043-90.git
+Mas tarde en grupo https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/utils-410043-408492-413194.git",2,0,0,0,0,0,0,,10,252
+173284,85585,173195,209813,"Martina Yolanda Brizuela","Thursday, 19 March 2026, 10:12 PM","Thursday, 19 March 2026, 10:12 PM",1,"Ejercicio de Git","participe de la sala 7 https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-409979-408519-410396-410505-409016-402105-400254-400786-412403",2,0,0,0,0,0,0,,6,179
+173285,85585,173195,209131,"Gastón Ezequiel Basso","Thursday, 19 March 2026, 10:38 PM","Thursday, 19 March 2026, 10:38 PM",1,"Ejercicio de Git","Participe en Sala 9 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/utils-409592-90616-406485-410485-410766-408414-409275-410766-409837-410576.git",2,0,0,0,0,0,0,,6,184
+173286,85585,173195,210111,"Ramiro Chiesa Gonzalez","Thursday, 19 March 2026, 10:48 PM","Thursday, 19 March 2026, 10:48 PM",1,"Ejercicio de Git","Participe en Sala 9 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/utils-409592-90616-406485-410485-410766-408414-409275-410766-409837-410576.git",2,0,0,0,0,0,0,,6,184
+173289,85585,173195,213437,"Tomás Romero Guiñazú","Thursday, 19 March 2026, 11:21 PM","Thursday, 19 March 2026, 11:21 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/bringaspiersigilli401761/utils-412550-401761-410630
+Participantes: Tomás Romero Guiñazú 412550 - Gino Bringas Piersigilli 401761 - David Ismael López Rodríguez 410630",2,0,0,0,0,0,0,,17,187
+173290,85585,173195,209959,"David Ismael López Rodríguez","Thursday, 19 March 2026, 11:23 PM","Thursday, 19 March 2026, 11:23 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/bringaspiersigilli401761/utils-412550-401761-410630
+Participantes: Tomás Romero Guiñazú 412550 - Gino Bringas Piersigilli 401761 - David Ismael López Rodríguez 410630",2,0,0,0,0,0,0,,17,187
+173302,85585,173195,197824,"Luis Agustín Torres Baldo","Friday, 20 March 2026, 9:56 AM","Friday, 20 March 2026, 9:56 AM",1,"Ejercicio de Git","participe de la sala 7 https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-409979-408519-410396-410505-409016-402105-400254-400786-412403
+",2,0,0,0,0,0,0,,6,179
+173328,85585,173195,198325,"Bruno Ludueña","Friday, 20 March 2026, 3:46 PM","Friday, 20 March 2026, 3:46 PM",1,"Ejercicio de Git","Participe en la sale 2 https://github.com/lucianofelice/utils-413077-402554-400784-404720-408492-96794-77520-409359-407680.git",2,0,0,0,0,0,0,,6,121
+173369,85585,173195,209113,"Rodrigo Facundo Alvarez","Friday, 20 March 2026, 8:47 PM","Friday, 20 March 2026, 8:47 PM",1,"Ejercicio de Git","Participe en sala 12 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/utils-411949-409893-408581-409819-409233-408720-408762-409595.git",2,0,0,0,0,0,0,,6,172
+173382,85585,173195,209186,"Efrain Emiliano Barahona","Saturday, 21 March 2026, 11:38 AM","Saturday, 21 March 2026, 11:38 AM",1,"Ejercicio de Git","Participe en sala 12 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/utils-411949-409893-408581-409819-409233-408720-408762-409595.git",2,0,0,0,0,0,0,,6,172
+173387,85585,173195,216032,"Luciano Santino Buna","Saturday, 21 March 2026, 12:49 PM","Saturday, 21 March 2026, 12:49 PM",1,"Ejercicio de Git","Participé en sala 15 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/87060/87060_408765_409203_415184_410343_408425_412550_409171_98520_415184
+",2,0,0,0,0,0,0,,6,173
+173395,85585,173195,215965,"Uriel Agustín Prevotel Sole","Saturday, 21 March 2026, 2:22 PM","Saturday, 21 March 2026, 2:22 PM",1,"Ejercicio de Git","Participe en sala 3 URL: https://github.com/UriPrevo-409036/gitdemo-sala-3.git",2,0,0,0,0,0,0,,6,73
+173397,85585,173195,64570,"Quiroga Tadeo Fabian Quiroga","Saturday, 21 March 2026, 3:19 PM","Saturday, 21 March 2026, 3:19 PM",1,"Ejercicio de Git","Participé en la sala 14, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils-81669",2,0,0,0,0,0,0,,7,120
+173401,85585,173195,198167,"Luciana Human","Saturday, 21 March 2026, 5:09 PM","Saturday, 21 March 2026, 5:09 PM",1,"Ejercicio de Git","Participe en la sala 11:
+- URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/sala11-410535-409515-96202-402077-410638-408733-409746-400916-400615-409673.git
+Tamb realice el trabajo con Lautaro Santillan 96794 (Intentamos cambiar el nombre del proyecto pero no lo logramos)
+- URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400615/dds-ej-1.git",2,0,0,0,0,0,0,,29,391
+173402,85585,173200,105873,"Lautaro Santillan","Saturday, 21 March 2026, 5:10 PM","Saturday, 21 March 2026, 5:10 PM",1,"Ejercicio de Git","También realice el trabajo con Luciana Human (Intentamos cambiar el nombre del proyecto pero no lo logramos)
+- URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96794/dds-ej-1.git",2,0,0,0,0,0,0,,20,194
+173405,85585,173195,213296,"Julieta Ayelen Fuentes","Saturday, 21 March 2026, 6:37 PM","Saturday, 21 March 2026, 6:37 PM",1,"Ejercicio de Git","Participe en la sala 7: 
+
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-409979-408519-410396-410505-409016-402105-400254-400786-412403
+",2,0,0,0,0,0,0,,6,181
+173406,85585,173195,199670,"Julián Eduardo Cavagnaro","Saturday, 21 March 2026, 8:04 PM","Saturday, 21 March 2026, 8:04 PM",1,"Ejercicio de Git","Participe en sala 7 - URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-409979-408519-410396-410505-409016-402105-400254-400786-412403",2,0,0,0,0,0,0,,7,182
+173407,85585,173195,215691,"Marlén Sofía König Soria","Saturday, 21 March 2026, 8:18 PM","Saturday, 21 March 2026, 8:18 PM",1,"Ejercicio de Git","Participe en la sala 9. https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/utils-409592-90616-406485-410485-410766-408414-409275-410766-409837-410576.git",2,0,0,0,0,0,0,,6,183
+173409,85585,173195,212195,"Joaquin Oliva","Saturday, 21 March 2026, 9:03 PM","Saturday, 21 March 2026, 9:03 PM",1,"Ejercicio de Git","Participé en clase
+URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411352/practica-411352-414813-409380-403106-2.git
+Casas Ángel Lautaro-403106, Caseres Elio-409380, Oliva Joaquín 411352, Suau Agustín-414813",2,0,0,0,0,0,0,,15,229
+173410,85585,173195,208688,"Elio Ariel Caseres","Saturday, 21 March 2026, 9:05 PM","Saturday, 21 March 2026, 9:05 PM",1,"Ejercicio de Git","Participé en clase
+URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411352/practica-411352-414813-409380-403106-2.git
+Casas Ángel Lautaro-403106, Caseres Elio-409380, Oliva Joaquín 411352, Suau Agustín-414813",2,0,0,0,0,0,0,,15,229
+173411,85585,173195,212869,"Lucas Francisco Villafuerte","Saturday, 21 March 2026, 10:42 PM","Saturday, 21 March 2026, 10:42 PM",1,"Ejercicio de Git","Villafuerte Lucas (411949). Participe en sala 12
+URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/utils-411949-409893-408581-409819-409233-408720-408762-409595.git",2,0,0,0,0,0,0,,9,197
+173414,85585,173195,109299,"Pedro Tissera","Sunday, 22 March 2026, 11:45 AM","Sunday, 22 March 2026, 11:45 AM",1,"Ejercicio de Git","Participé en la sala 9: URL https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/utils-409592-90616-406485-410485-410766-408414-409275-410766-409837-410576-95901",2,0,0,0,0,0,0,,7,188
+173416,85585,173195,215749,"Maria Victoria Gobbi","Sunday, 22 March 2026, 1:04 PM","Sunday, 22 March 2026, 1:04 PM",1,"Ejercicio de Git","Participé en sala 8
+URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/utils-409476-85307-404568-414649-400153-89651-408678-92319-94825-409142.git",2,0,0,0,0,0,0,,6,181
+173433,85585,173195,208013,"Lautaro Meichtri","Sunday, 22 March 2026, 7:14 PM","Sunday, 22 March 2026, 7:17 PM",1,"Ejercicio de Git","Hice el ejercicio con Juan Cruz Pedernera, tuvimos un conflicto en la fase 3 para poder realizar el merge, ya que nos ocurría lo que se especifica en la fase 4, pero no realizamos cambios, están las dos ramas pero se ve solo un archivo en master. https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413679/utils-413679-408685.git",2,0,0,0,0,0,0,,48,309
+173438,85585,173195,200171,"Alberto Miguel Ahumada","Sunday, 22 March 2026, 9:19 PM","Sunday, 22 March 2026, 9:19 PM",1,"Ejercicio de Git","Participe en sala 2 URL:https://github.com/lucianofelice/utils-413077-402554-400784-404720-408492-96794-77520-409359-407680/branches",2,0,0,0,0,0,0,,5,128
+173440,85585,173195,215620,"Lucas Daniel Rey","Sunday, 22 March 2026, 9:23 PM","Sunday, 22 March 2026, 9:23 PM",1,"Ejercicio de Git","Participe en la sala 14
+URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils-81669",2,0,0,0,0,0,0,,7,119
+173465,85585,173195,215608,"Sofia Maricel Olivieri Rojas","Monday, 23 March 2026, 10:40 AM","Monday, 23 March 2026, 10:40 AM",1,"Ejercicio de Git","Participe en sala 1 https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/utils-410043-90.git
+En grupo https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/utils-410043-408492-413194.git",2,0,0,0,0,0,0,,8,244
+173473,85585,173195,215608,"Sofia Maricel Olivieri Rojas","Monday, 23 March 2026, 11:32 AM","Monday, 23 March 2026, 11:32 AM",1,"Ejercicio de Git","Sala 1:
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408420/proyectoddsolivieri.git
+En grupo https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/utils-410043-408492-413194.git",2,0,0,0,0,0,0,,6,238
+173477,85585,173195,209058,"Federico Andrés Nieto","Monday, 23 March 2026, 12:07 PM","Monday, 23 March 2026, 12:07 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410391/utils-410391-408427-410396
+Participantes: Federico Nieto: 410391 - Hugo Francisco Lara: 408427 - Adriano Montenovi: 410396",2,0,0,0,0,0,0,,14,195
+173495,85585,173195,200744,"Angel Lautaro Casas","Monday, 23 March 2026, 12:57 PM","Monday, 23 March 2026, 12:57 PM",1,"Ejercicio de Git","Participé en clase URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411352/practica-411352-414813-409380-403106-2.git",2,0,0,0,0,0,0,,5,148
+173496,85585,173195,216651,"Franco Castrillo","Monday, 23 March 2026, 1:11 PM","Monday, 23 March 2026, 1:11 PM",1,"Ejercicio de Git","Participe en la sala 15 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/87060/87060_408765_409203_415184_410343_408425_412550_409171_98520_415184",2,0,0,0,0,0,0,,7,175
+173503,85585,173195,215600,"Sofía Morales","Monday, 23 March 2026, 3:16 PM","Monday, 23 March 2026, 3:16 PM",1,"Ejercicio de Git","Participe en sala 3 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/utils-408403-409036-96729-401019",2,0,0,0,0,0,0,,6,138
+173508,85585,173195,212836,"Geronimo Samuel Maragliano","Monday, 23 March 2026, 3:45 PM","Monday, 23 March 2026, 3:45 PM",1,"Ejercicio de Git","Participe en Sala 4 https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/utils-411910-94455-403717-414215-410777-408359-401886-400113-409823-413194",2,0,0,0,0,0,0,,5,176
+173515,85585,173195,208894,"Diego Tapia Flores","Monday, 23 March 2026, 5:35 PM","Monday, 23 March 2026, 5:35 PM",1,"Ejercicio de Git","Participe en la Sala 12 https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/utils-411949-409893-408581-409819-409233-408720-408762-409595",2,0,0,0,0,0,0,,6,166
+173531,85585,173195,209269,"Marcos Nicolás Maraboli","Monday, 23 March 2026, 8:19 PM","Monday, 23 March 2026, 8:19 PM",1,"Ejercicio de Git","Participe en Sala 7, link: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-409979-408519-410396-410505-409016-402105-400254-400786-412403",2,0,0,0,0,0,0,,6,183
+173534,85585,173195,215793,"Alejo Galvan","Monday, 23 March 2026, 8:24 PM","Monday, 23 March 2026, 8:24 PM",1,"Ejercicio de Git","Participe sala 12: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/utils-411949-409893-408581-409819-409233-408720-408762-409595",2,0,0,0,0,0,0,,4,163
+173535,85585,173195,215952,"Giuliana Aymara Cabral Jauregui","Monday, 23 March 2026, 8:39 PM","Monday, 23 March 2026, 8:39 PM",1,"Ejercicio de Git","Participe en ma sala 7 URL:
+
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-409979-408519-410396-410505-409016-402105-400254-400786-412403
+",2,0,0,0,0,0,0,,7,183
+173599,85585,173195,216041,"Juan pedro Caldo","Tuesday, 24 March 2026, 7:10 PM","Tuesday, 24 March 2026, 7:10 PM",1,"Ejercicio de Git","Participe en sala 16 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/407027/utils-407027-409688.git",2,0,0,0,0,0,0,,6,130
+173616,85585,173195,198509,"Lourdes jazmin Alvarez mendoza","Tuesday, 24 March 2026, 9:14 PM","Tuesday, 24 March 2026, 9:14 PM",1,"Ejercicio de Git","Participe en la sala 5 - https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409202/utils-409202-400979-94113-411352-414813.git",2,0,0,0,0,0,0,,7,148
+173656,85585,173195,198546,"Facundo Agustín Coronel","Wednesday, 25 March 2026, 10:01 AM","Wednesday, 25 March 2026, 10:01 AM",1,"Ejercicio de Git","Participe en sala 3 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/utils-408403-409036-96729-401019 (pasado a gitlab y completo)
+",2,0,0,0,0,0,0,,11,162
+173662,85585,173195,105809,"Jorge Cadamuro","Wednesday, 25 March 2026, 11:02 AM","Wednesday, 25 March 2026, 11:02 AM",1,"Ejercicio de Git","Participe en la sala 3 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/utils-408403-409036-96729-401019.git",2,0,0,0,0,0,0,,7,144
+173670,85585,173395,215965,"Uriel Agustín Prevotel Sole","Wednesday, 25 March 2026, 12:48 PM","Wednesday, 25 March 2026, 12:48 PM",1,"Ejercicio de Git","Luego hicimos y completamos el ejercicio en gitlab, URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/utils-408403-409036-96729-401019",2,0,0,0,0,0,0,,10,166
+173695,85585,173195,198284,"Joel Ibañez Cabral","Wednesday, 25 March 2026, 5:59 PM","Wednesday, 25 March 2026, 5:59 PM",1,"Ejercicio de Git","Participe en sala 13 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/utils1-408683-400737-404642-408763-410360-411150-411683-410260-408427-410391",2,0,0,0,0,0,0,,6,183
+173697,85585,173195,208011,"Lucía Isabel Tresca","Wednesday, 25 March 2026, 6:01 PM","Wednesday, 25 March 2026, 6:01 PM",1,"Ejercicio de Git","Participé de la Sala 13.
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/utils1-408683-400737-404642-408763-410360-411150-411683-410260-408427-410391.git",2,0,0,0,0,0,0,,6,186
+173733,85585,173195,77454,"Cristian Burgos","Wednesday, 25 March 2026, 9:38 PM","Wednesday, 25 March 2026, 9:38 PM",1,"Ejercicio de Git","Participe en la sala 14. Url: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils-81669",2,0,0,0,0,0,0,,7,120
+173767,85585,173195,209559,"Sofia Agustina Belmonte Carbonari","Thursday, 26 March 2026, 11:28 AM","Thursday, 26 March 2026, 11:28 AM",1,"Ejercicio de Git","Participe en la sala 13 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/utils1-408683-400737-404642-408763-410360-411150-411683-410260-408427-410391.git",2,0,0,0,0,0,0,,7,189
+173787,85585,173195,215748,"Mateo Agustin Aronna","Thursday, 26 March 2026, 1:34 PM","Thursday, 26 March 2026, 1:34 PM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/utils-410043-90.git,2,0,0,0,0,0,0,,1,105
+173790,85585,173195,215769,"Gustavo Alejo Audisio","Thursday, 26 March 2026, 1:44 PM","Thursday, 26 March 2026, 1:44 PM",1,"Ejercicio de Git","participe en la sala 12 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/utils-411949-409893-408581-409819-409233-408720-408762-409595",2,0,0,0,0,0,0,,7,170
+173799,85585,173195,215711,"Ignacio Bunge","Thursday, 26 March 2026, 3:14 PM","Thursday, 26 March 2026, 3:14 PM",1,"Ejercicio de Git","Al momento de crearlo no nos dejaba con todos los legajos por alguna razon, por eso se ve asi cortado. https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/utils-410043-90.git",2,0,0,0,0,0,0,,21,188
+173804,85585,173195,73627,"Santiago Nicolas Sanchez","Thursday, 26 March 2026, 3:52 PM","Thursday, 26 March 2026, 3:52 PM",1,"Ejercicio de Git","Sala 6 https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/86733/practico1.git",2,0,0,0,0,0,0,,3,103
+173900,85585,173195,215661,"Facundo Martin Rey Laje","Thursday, 26 March 2026, 11:28 PM","Thursday, 26 March 2026, 11:28 PM",1,"Ejercicio de Git","Participe de la sala 7 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-409979-408519-410396-410505-409016-402105-400254-400786-412403.git",2,0,0,0,0,0,0,,7,187
+173923,85585,173195,106090,"Priscila Mastrodomenico","Friday, 27 March 2026, 10:43 AM","Friday, 27 March 2026, 10:43 AM",1,"Ejercicio de Git","Ejercitación primer clase URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96990/utils-96990",2,0,0,0,0,0,0,,5,123
+173938,85850,0,5182,"Javier Ignacio Iglesias","Friday, 27 March 2026, 12:55 PM","Friday, 27 March 2026, 12:55 PM",1,"Ejercicio HTML","contestar con el link del repo en donde hicieron el ejercicio, de la clase del 27/03/2026
+",2,1,0,0,0,0,0,,16,74
+173978,85850,173938,213296,"Julieta Ayelen Fuentes","Friday, 27 March 2026, 5:59 PM","Friday, 27 March 2026, 5:59 PM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412403/412403-ejercicio_html.git
+",2,0,0,0,0,0,0,,1,111
+173979,85850,173938,215817,"Luciano Cipolla Delcantare","Friday, 27 March 2026, 6:03 PM","Friday, 27 March 2026, 6:03 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408808/ejercicios-dds,2,0,0,0,0,0,0,,1,100
+173980,85850,173938,215606,"Denise Nagel","Friday, 27 March 2026, 6:08 PM","Friday, 27 March 2026, 6:08 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408414/clase-26-3/-/tree/b1268b0aec88d7bee0e68b84d053e017fffc5c10/,2,0,0,0,0,0,0,,1,145
+173982,85850,173938,208782,"Ezequiel Purro","Friday, 27 March 2026, 6:11 PM","Friday, 27 March 2026, 6:11 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/409476_ejercicio_html,2,0,0,0,0,0,0,,1,107
+173984,85850,173938,210042,"Magali Agostina Vivas Garay","Friday, 27 March 2026, 6:21 PM","Friday, 27 March 2026, 6:21 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410714/410714ejerciciohtml.git,2,0,0,0,0,0,0,,1,109
+174037,85850,173938,209331,"Daniela Roberta Mercado Gonzales","Friday, 27 March 2026, 9:48 PM","Friday, 27 March 2026, 9:48 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/html-ejercicio.git,2,0,0,0,0,0,0,,1,104
+174038,85850,173938,84989,"Alejo Cruz Lescano","Friday, 27 March 2026, 10:09 PM","Friday, 27 March 2026, 10:09 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/90616/90616_ejercicio_html.git,2,0,0,0,0,0,0,,1,109
+174043,85850,173938,215691,"Marlén Sofía König Soria","Friday, 27 March 2026, 11:08 PM","Friday, 27 March 2026, 11:08 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408567/408567-ejercicio.html.git,2,0,0,0,0,0,0,,1,111
+174044,85850,173938,216041,"Juan pedro Caldo","Friday, 27 March 2026, 11:22 PM","Friday, 27 March 2026, 11:22 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409688/409688_ejercio_html.git,2,0,0,0,0,0,0,,1,109
+174048,85850,173938,208011,"Lucía Isabel Tresca","Friday, 27 March 2026, 11:36 PM","Friday, 27 March 2026, 11:36 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/408683-ejercicio.html.git,2,0,0,0,0,0,0,,1,111
+174054,85850,173938,215561,"Lucas Alejandro González Tempel","Saturday, 28 March 2026, 7:50 AM","Saturday, 28 March 2026, 7:50 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408335/408335_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174061,85585,173195,215610,"Victoria Fajardo Carranza","Saturday, 28 March 2026, 9:51 AM","Saturday, 28 March 2026, 9:51 AM",1,"Ejercicio de Git","Participe en la sala 15 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/87060/87060_408765_409203_415184_410343_408425_412550_409171_98520_415184.git",2,0,0,0,0,0,0,,7,179
+174067,85850,173938,215610,"Victoria Fajardo Carranza","Saturday, 28 March 2026, 11:56 AM","Saturday, 28 March 2026, 11:56 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408425/408425_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174071,85850,173938,211975,"Ramiro Lujan","Saturday, 28 March 2026, 1:53 PM","Saturday, 28 March 2026, 1:53 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411150/clase_26_03.git,2,0,0,0,0,0,0,,1,101
+174072,85850,173938,209603,"Lautaro Gabriel Bautista","Saturday, 28 March 2026, 1:58 PM","Saturday, 28 March 2026, 1:58 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410304/clase-26-03-trabajo.git,2,0,0,0,0,0,0,,1,109
+174075,85850,173938,209269,"Marcos Nicolás Maraboli","Saturday, 28 March 2026, 3:02 PM","Saturday, 28 March 2026, 3:02 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409979/ejercicio_html.git,2,0,0,0,0,0,0,,1,104
+174084,85850,173938,213437,"Tomás Romero Guiñazú","Saturday, 28 March 2026, 7:02 PM","Saturday, 28 March 2026, 7:02 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412550/ejercicio-html,2,0,0,0,0,0,0,,1,100
+174090,85850,173938,208813,"Montserrat Aidalé Rosalia Porras Salazar","Saturday, 28 March 2026, 10:14 PM","Saturday, 28 March 2026, 10:14 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409508/409508_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174092,85850,173938,105809,"Jorge Cadamuro","Sunday, 29 March 2026, 1:26 AM","Sunday, 29 March 2026, 1:26 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/cadamuro96729/96729.git,2,0,0,0,0,0,0,,1,60
+174093,85850,174092,105809,"Jorge Cadamuro","Sunday, 29 March 2026, 1:49 AM","Sunday, 29 March 2026, 1:49 AM",1,"Ejercicio HTML","Pongo link del trabajo :
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96729/html-96729.git",2,0,0,0,0,0,0,,6,119
+174098,85850,173938,209959,"David Ismael López Rodríguez","Sunday, 29 March 2026, 11:32 AM","Sunday, 29 March 2026, 11:32 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410630/ejercicio-html,2,0,0,0,0,0,0,,1,100
+174099,85850,173938,215821,"Santiago Mateo Gamond","Sunday, 29 March 2026, 11:58 AM","Sunday, 29 March 2026, 11:58 AM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408814/primerejerciciohtml
+
+profe aca esta el link, disculpe la demora, por lo que yo habia entendido no iba a haber link en esta actividad, pero esta la fecha de subida en el repo",2,0,0,0,0,0,0,,32,227
+174105,85850,173938,207614,"María Virginia Cavallero","Sunday, 29 March 2026, 1:27 PM","Sunday, 29 March 2026, 1:27 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/408492-html-ejercicio.git,2,0,0,0,0,0,0,,1,111
+174107,85850,173938,214124,"Belen Micaela Marietti","Sunday, 29 March 2026, 1:44 PM","Sunday, 29 March 2026, 1:44 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413194/413194-ejercicio-html.git,2,0,0,0,0,0,0,,1,111
+174108,85850,173938,198327,"Ambar Jazmin Rosales","Sunday, 29 March 2026, 1:56 PM","Sunday, 29 March 2026, 1:56 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400786/400786_ejercio_html.git,2,0,0,0,0,0,0,,1,109
+174110,85585,173195,198327,"Ambar Jazmin Rosales","Sunday, 29 March 2026, 1:57 PM","Sunday, 29 March 2026, 1:57 PM",1,"Ejercicio de Git","Participe en la sala 7 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/utils-408832-409979-408519-410396-410505-409016-402105-400254-400786-412403.git",2,0,0,0,0,0,0,,7,187
+174133,85850,173938,200171,"Alberto Miguel Ahumada","Monday, 30 March 2026, 12:02 AM","Monday, 30 March 2026, 12:02 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402554/402554_ejercicio_html,2,0,0,0,0,0,0,,1,107
+174164,85850,173938,208514,"Nicolás Martín Terreno Cortés","Monday, 30 March 2026, 12:52 PM","Monday, 30 March 2026, 12:52 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409202/409202_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174168,85850,173938,215711,"Ignacio Bunge","Monday, 30 March 2026, 1:19 PM","Monday, 30 March 2026, 1:19 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408602/ejercicio_html.git,2,0,0,0,0,0,0,,1,104
+174172,85850,173938,216651,"Franco Castrillo","Monday, 30 March 2026, 3:15 PM","Monday, 30 March 2026, 3:15 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415184/415184-ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174173,85585,173195,296501,"Simón Ernesto Lozada Navarro","Monday, 30 March 2026, 3:33 PM","Monday, 30 March 2026, 3:33 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/bringaspiersigilli401761/utils-412550-401761-410630/-/tree/main?ref_type=heads
+participe con: Tomás Guiñazu 412550 - Gino Bringas 401 - David Ismael López Rodríguez 410630 - Simon Ernesto Lozada Navarro 410539",2,0,0,0,0,0,0,,22,225
+174181,85850,173938,216314,"Lautaro Ezequiel Rodriguez","Monday, 30 March 2026, 4:45 PM","Monday, 30 March 2026, 4:46 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414215/414215-ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174193,85850,173938,209113,"Rodrigo Facundo Alvarez","Monday, 30 March 2026, 6:04 PM","Monday, 30 March 2026, 6:04 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409819/409819-ejercicio-html.git,2,0,0,0,0,0,0,,1,111
+174200,85850,173938,215735,"Francisco Berrini","Monday, 30 March 2026, 7:33 PM","Monday, 30 March 2026, 7:33 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408651/408651_ejercicio_html/-/tree/36593c3476f2583fe90c95ffa12e4c7a6d303d28/,2,0,0,0,0,0,0,,1,156
+174201,85850,173938,215050,"Luca Martino Giuliani Romero","Monday, 30 March 2026, 7:34 PM","Monday, 30 March 2026, 7:34 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410721/410721_ejercicio_html/-/tree/5292061c251d53f1d8d299ebec6b41eb8eec75cd/,2,0,0,0,0,0,0,,1,156
+174205,85850,173938,198167,"Luciana Human","Monday, 30 March 2026, 8:38 PM","Monday, 30 March 2026, 8:38 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400615/400615_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174215,85850,173938,105873,"Lautaro Santillan","Monday, 30 March 2026, 9:26 PM","Monday, 30 March 2026, 9:26 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96794/96794_ejercicio_html.git,2,0,0,0,0,0,0,,1,109
+174220,85850,173938,215608,"Sofia Maricel Olivieri Rojas","Monday, 30 March 2026, 11:14 PM","Monday, 30 March 2026, 11:14 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408420/408420_ejercio_html.git,2,0,0,0,0,0,0,,1,109
+174221,85850,173938,209813,"Martina Yolanda Brizuela","Monday, 30 March 2026, 11:34 PM","Monday, 30 March 2026, 11:34 PM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408765/408765_410505_409673_ejercio_html.git
+",2,0,0,0,0,0,0,,1,123
+174222,85850,173938,215023,"Constanza Aguirre","Monday, 30 March 2026, 11:35 PM","Monday, 30 March 2026, 11:35 PM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408765/408765_410505_409673_ejercio_html.git
+",2,0,0,0,0,0,0,,1,123
+174223,85850,173938,212869,"Lucas Francisco Villafuerte","Monday, 30 March 2026, 11:46 PM","Monday, 30 March 2026, 11:46 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411949/ejercicio_html.git,2,0,0,0,0,0,0,,1,104
+174224,85850,173938,198442,"Lucas Ezequiel Sander","Tuesday, 31 March 2026, 12:10 AM","Tuesday, 31 March 2026, 12:10 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400908/400908_ejercicio_html_clase3.git,2,0,0,0,0,0,0,,1,118
+174228,85850,173938,214714,"Martina Barrenechea","Tuesday, 31 March 2026, 1:37 AM","Tuesday, 31 March 2026, 1:37 AM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408765/408765_410505_409673_ejercio_html.git
+",2,0,0,0,0,0,0,,1,123
+174229,85850,173938,199422,"Valentin Mansilla","Tuesday, 31 March 2026, 7:56 AM","Tuesday, 31 March 2026, 7:56 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401886/401886-ejercicio-html,2,0,0,0,0,0,0,,1,107
+174233,85850,173938,212836,"Geronimo Samuel Maragliano","Tuesday, 31 March 2026, 9:25 AM","Tuesday, 31 March 2026, 9:25 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/411910_ejercio_html,2,0,0,0,0,0,0,,1,105
+174239,85850,173938,215837,"Facundo Ezequiel Fiorani","Tuesday, 31 March 2026, 10:04 AM","Tuesday, 31 March 2026, 10:04 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/proyectodds/-/tree/main/ACT%20CLASE%20HTML%7D?ref_type=heads,2,0,0,0,0,0,0,,1,146
+174240,85850,173938,208547,"Julian Andrawos","Tuesday, 31 March 2026, 10:09 AM","Tuesday, 31 March 2026, 10:09 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409237/ejeciociohtml,2,0,0,0,0,0,0,,1,99
+174241,85850,173938,208668,"Joaquin Larroca Carrara","Tuesday, 31 March 2026, 10:09 AM","Tuesday, 31 March 2026, 10:09 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409359/409359,2,0,0,0,0,0,0,,1,92
+174244,85850,173938,208544,"Joaquin Andres Cagliero Palma","Tuesday, 31 March 2026, 10:16 AM","Tuesday, 31 March 2026, 10:16 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409233/trabajo_semana_2.git,2,0,0,0,0,0,0,,1,106
+174245,85850,173938,216530,"Christopher Leyton","Tuesday, 31 March 2026, 10:16 AM","Tuesday, 31 March 2026, 10:16 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414649/414649.git,2,0,0,0,0,0,0,,1,96
+174246,85941,0,52901,"Giampieri Navarro Jeremias Caleb Giampieri Navarro","Tuesday, 31 March 2026, 10:17 AM","Tuesday, 31 March 2026, 10:17 AM",1,"Ejercicio CSS + Bootstrap","Contestar con el link del repositorio en donde hicieron el ejercicio de la clase 31/03/2026
+",2,1,0,0,0,0,0,,15,77
+174256,85941,174246,199422,"Valentin Mansilla","Tuesday, 31 March 2026, 10:48 AM","Tuesday, 31 March 2026, 10:48 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401886/401886-ejercicio-html-css-31-03#,2,0,0,0,0,0,0,,1,118
+174257,85941,174246,103555,"Mariano Spaccesi","Tuesday, 31 March 2026, 10:51 AM","Tuesday, 31 March 2026, 10:51 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94483/94483_ejercicio_css_aplicado_html_bootstrap.git,2,0,0,0,0,0,0,,1,132
+174258,85850,173938,198546,"Facundo Agustín Coronel","Tuesday, 31 March 2026, 10:52 AM","Tuesday, 31 March 2026, 10:52 AM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401019/semana-2.git (no habia visto el foro, fue realizada en la fecha)",2,0,0,0,0,0,0,,11,140
+174259,85850,173938,103555,"Mariano Spaccesi","Tuesday, 31 March 2026, 10:52 AM","Tuesday, 31 March 2026, 10:52 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94483/94483_ejercicio_html.git,2,0,0,0,0,0,0,,1,109
+174260,85941,174246,198546,"Facundo Agustín Coronel","Tuesday, 31 March 2026, 10:52 AM","Tuesday, 31 March 2026, 10:52 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401019/semana-3.git,2,0,0,0,0,0,0,,1,98
+174261,85941,174246,215643,"Marco Saggiorato","Tuesday, 31 March 2026, 10:54 AM","Tuesday, 31 March 2026, 10:54 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408482/408482_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174262,85941,174246,213296,"Julieta Ayelen Fuentes","Tuesday, 31 March 2026, 10:54 AM","Tuesday, 31 March 2026, 10:54 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412403/412403-ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174263,85850,173938,215643,"Marco Saggiorato","Tuesday, 31 March 2026, 10:56 AM","Tuesday, 31 March 2026, 10:56 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408482/408482_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174265,85941,174246,215606,"Denise Nagel","Tuesday, 31 March 2026, 10:57 AM","Tuesday, 31 March 2026, 10:57 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408414/clase-31_3/-/tree/dd127b9b6fb172e4779cead705151a7a34436ff5/,2,0,0,0,0,0,0,,1,145
+174266,85585,173195,215643,"Marco Saggiorato","Tuesday, 31 March 2026, 10:57 AM","Tuesday, 31 March 2026, 10:57 AM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/utils-410043-90.git,2,0,0,0,0,0,0,,1,105
+174267,85941,174246,198933,"Andrés Porto","Tuesday, 31 March 2026, 10:59 AM","Tuesday, 31 March 2026, 10:59 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401392/401392_ejercicio3_css,2,0,0,0,0,0,0,,1,107
+174268,85850,173938,198933,"Andrés Porto","Tuesday, 31 March 2026, 11:00 AM","Tuesday, 31 March 2026, 11:00 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401392/401392_ejercicio2_html,2,0,0,0,0,0,0,,1,108
+174269,85941,174246,86743,"Lucas Callamullo","Tuesday, 31 March 2026, 11:01 AM","Tuesday, 31 March 2026, 11:01 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/77520/css-init,2,0,0,0,0,0,0,,1,93
+174271,85850,173938,215793,"Alejo Galvan","Tuesday, 31 March 2026, 11:08 AM","Tuesday, 31 March 2026, 11:08 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408762/ejercicio1,2,0,0,0,0,0,0,,1,96
+174272,85941,174246,215748,"Mateo Agustin Aronna","Tuesday, 31 March 2026, 11:08 AM","Tuesday, 31 March 2026, 11:08 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408677/408677_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174273,85941,174246,215793,"Alejo Galvan","Tuesday, 31 March 2026, 11:09 AM","Tuesday, 31 March 2026, 11:09 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408762/ejercicio1,2,0,0,0,0,0,0,,1,96
+174274,85941,174246,214124,"Belen Micaela Marietti","Tuesday, 31 March 2026, 11:10 AM","Tuesday, 31 March 2026, 11:10 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413194/ejercicio-css.git,2,0,0,0,0,0,0,,1,103
+174275,85941,174246,215672,"Lucía Martínez","Tuesday, 31 March 2026, 11:11 AM","Tuesday, 31 March 2026, 11:11 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408540/408540_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174276,85941,174246,207614,"María Virginia Cavallero","Tuesday, 31 March 2026, 11:11 AM","Tuesday, 31 March 2026, 11:11 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/408492-css-boostrap.git,2,0,0,0,0,0,0,,1,109
+174277,85941,174246,208514,"Nicolás Martín Terreno Cortés","Tuesday, 31 March 2026, 11:11 AM","Tuesday, 31 March 2026, 11:11 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409202/409202_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174278,85850,173938,215672,"Lucía Martínez","Tuesday, 31 March 2026, 11:12 AM","Tuesday, 31 March 2026, 11:12 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408540/408540_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174279,85941,174246,199004,"Agustín Nicolás Oliva","Tuesday, 31 March 2026, 11:14 AM","Tuesday, 31 March 2026, 11:14 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401466/ejercicio-31-03.git,2,0,0,0,0,0,0,,1,105
+174280,85585,173195,215794,"Marcelo David Farias","Tuesday, 31 March 2026, 11:14 AM","Tuesday, 31 March 2026, 11:14 AM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/utils1-408683-400737-404642-408763-410360-411150-411683-410260-408427-410391.git,2,0,0,0,0,0,0,,1,166
+174281,85850,173938,215794,"Marcelo David Farias","Tuesday, 31 March 2026, 11:15 AM","Tuesday, 31 March 2026, 11:15 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408763/semana-2-clase-26_03.git,2,0,0,0,0,0,0,,1,110
+174282,85941,174246,215794,"Marcelo David Farias","Tuesday, 31 March 2026, 11:15 AM","Tuesday, 31 March 2026, 11:15 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408763/408763_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174283,85850,173938,268272,"Matías Ezequiel Quilodrán","Tuesday, 31 March 2026, 11:17 AM","Tuesday, 31 March 2026, 11:17 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94113/ejercicios,2,0,0,0,0,0,0,,1,95
+174284,85850,173938,208454,"Martin Alejandro Del Zotto","Tuesday, 31 March 2026, 11:18 AM","Tuesday, 31 March 2026, 11:18 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409142/proyectohtml1,2,0,0,0,0,0,0,,1,99
+174285,85585,173195,268272,"Matías Ezequiel Quilodrán","Tuesday, 31 March 2026, 11:18 AM","Tuesday, 31 March 2026, 11:18 AM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409202/utils-409202-400979-94113-411352-414813,2,0,0,0,0,0,0,,1,125
+174286,85941,174246,215681,"Santiago Peretti","Tuesday, 31 March 2026, 11:19 AM","Tuesday, 31 March 2026, 11:19 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408551/408551-ejerciciohtmlcss.git,2,0,0,0,0,0,0,,1,113
+174288,85941,174246,208782,"Ezequiel Purro","Tuesday, 31 March 2026, 11:22 AM","Tuesday, 31 March 2026, 11:22 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/409476_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174289,85941,174246,198284,"Joel Ibañez Cabral","Tuesday, 31 March 2026, 11:22 AM","Tuesday, 31 March 2026, 11:22 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400737/400737_css,2,0,0,0,0,0,0,,1,96
+174290,85941,174246,208547,"Julian Andrawos","Tuesday, 31 March 2026, 11:24 AM","Tuesday, 31 March 2026, 11:24 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409237/ejeciociohtml/-/blob/main/409237_ejercicio_css.zip?ref_type=heads,2,0,0,0,0,0,0,,1,151
+174291,85941,174246,215821,"Santiago Mateo Gamond","Tuesday, 31 March 2026, 11:25 AM","Tuesday, 31 March 2026, 11:25 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408814/primerejerciciohtml,2,0,0,0,0,0,0,,1,105
+174292,85941,174246,211975,"Ramiro Lujan","Tuesday, 31 March 2026, 11:26 AM","Tuesday, 31 March 2026, 11:26 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411150/clase_31_03.git,2,0,0,0,0,0,0,,1,101
+174293,85941,174246,208813,"Montserrat Aidalé Rosalia Porras Salazar","Tuesday, 31 March 2026, 11:28 AM","Tuesday, 31 March 2026, 11:28 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409508/409508_html.git,2,0,0,0,0,0,0,,1,101
+174294,85941,174246,207613,"Milagros Palacios Sesto","Tuesday, 31 March 2026, 11:35 AM","Tuesday, 31 March 2026, 11:35 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408347/408347_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174295,85941,174246,103528,"Joaquín Delic","Tuesday, 31 March 2026, 11:37 AM","Tuesday, 31 March 2026, 11:37 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94455/delic_joaquin_94455.git,2,0,0,0,0,0,0,,1,108
+174297,85941,174246,212836,"Geronimo Samuel Maragliano","Tuesday, 31 March 2026, 11:43 AM","Tuesday, 31 March 2026, 11:43 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/css-411910,2,0,0,0,0,0,0,,1,96
+174299,85941,174246,209113,"Rodrigo Facundo Alvarez","Tuesday, 31 March 2026, 11:49 AM","Tuesday, 31 March 2026, 11:49 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409819/409819-ejercicio-css.git,2,0,0,0,0,0,0,,1,110
+174300,85941,174246,197824,"Luis Agustín Torres Baldo","Tuesday, 31 March 2026, 11:51 AM","Tuesday, 31 March 2026, 11:51 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400254/400254_ejercio_html,2,0,0,0,0,0,0,,1,105
+174301,85941,174246,198442,"Lucas Ezequiel Sander","Tuesday, 31 March 2026, 11:51 AM","Tuesday, 31 March 2026, 11:51 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400908/400908_ejercicio_css_clase4.git,2,0,0,0,0,0,0,,1,117
+174302,85850,173938,197824,"Luis Agustín Torres Baldo","Tuesday, 31 March 2026, 11:52 AM","Tuesday, 31 March 2026, 11:52 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400254/400254_ejercio_html,2,0,0,0,0,0,0,,1,105
+174303,85941,174246,209603,"Lautaro Gabriel Bautista","Tuesday, 31 March 2026, 11:56 AM","Tuesday, 31 March 2026, 11:56 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410304/clase-31-03-trabajo.git,2,0,0,0,0,0,0,,1,109
+174304,85941,174246,208515,"Nicolas Kiriachek","Tuesday, 31 March 2026, 11:58 AM","Tuesday, 31 March 2026, 11:58 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409203/409203_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174305,85850,173938,208515,"Nicolas Kiriachek","Tuesday, 31 March 2026, 11:59 AM","Tuesday, 31 March 2026, 11:59 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409203/TP-HTML-409203.git,2,0,0,0,0,0,0,,1,104
+174307,85941,174246,268272,"Matías Ezequiel Quilodrán","Tuesday, 31 March 2026, 12:19 PM","Tuesday, 31 March 2026, 12:19 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94113/ejercicio-semana3,2,0,0,0,0,0,0,,1,102
+174308,85941,174246,216651,"Franco Castrillo","Tuesday, 31 March 2026, 12:21 PM","Tuesday, 31 March 2026, 12:21 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415184/415184-ejercicio_css_bootstrap.git,2,0,0,0,0,0,0,,1,120
+174311,85941,174246,209269,"Marcos Nicolás Maraboli","Tuesday, 31 March 2026, 12:28 PM","Tuesday, 31 March 2026, 12:28 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409979/ejercicio_html.git,2,0,0,0,0,0,0,,1,104
+174312,85941,174246,215691,"Marlén Sofía König Soria","Tuesday, 31 March 2026, 12:40 PM","Tuesday, 31 March 2026, 12:40 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408567/408567_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174313,85941,174246,198327,"Ambar Jazmin Rosales","Tuesday, 31 March 2026, 12:42 PM","Tuesday, 31 March 2026, 12:42 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400786/400786-ejercicio-css.git,2,0,0,0,0,0,0,,1,110
+174316,85850,173938,215673,"Valentín Ignacio Peralta Mamondi","Tuesday, 31 March 2026, 12:59 PM","Tuesday, 31 March 2026, 12:59 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408541/semana-2.git,2,0,0,0,0,0,0,,1,98
+174317,85941,174246,215673,"Valentín Ignacio Peralta Mamondi","Tuesday, 31 March 2026, 1:00 PM","Tuesday, 31 March 2026, 1:00 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408541/408541-semana-3-css-y-bootstrap.git,2,0,0,0,0,0,0,,1,121
+174319,85941,174246,81992,"Francisco Florio","Tuesday, 31 March 2026, 1:33 PM","Tuesday, 31 March 2026, 1:33 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/89651/89651_ejercicio_css/-/tree/bb79d4a1ac9026e8ec85fa8c87ebaeb07c5dbbc2/,2,0,0,0,0,0,0,,1,153
+174321,85941,174246,219590,"Melgarejo Camila Ariadna Melgarejo","Tuesday, 31 March 2026, 1:52 PM","Tuesday, 31 March 2026, 2:00 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94825,2,0,0,0,0,0,0,,1,84
+174322,85941,174246,209813,"Martina Yolanda Brizuela","Tuesday, 31 March 2026, 1:53 PM","Tuesday, 31 March 2026, 1:53 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410505/410505-ejercicio-css-bootstrap.git,2,0,0,0,0,0,0,,1,120
+174323,85850,173938,212195,"Joaquin Oliva","Tuesday, 31 March 2026, 2:18 PM","Tuesday, 31 March 2026, 2:18 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411352/411352_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174324,85850,173938,208894,"Diego Tapia Flores","Tuesday, 31 March 2026, 2:18 PM","Tuesday, 31 March 2026, 2:18 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409595/409595_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174327,85941,174246,215837,"Facundo Ezequiel Fiorani","Tuesday, 31 March 2026, 2:32 PM","Tuesday, 31 March 2026, 2:32 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/proyectodds/-/tree/main/ACT%20CLASE%20HTML%20y%20Css?ref_type=heads,2,0,0,0,0,0,0,,1,153
+174328,85941,174246,215610,"Victoria Fajardo Carranza","Tuesday, 31 March 2026, 2:42 PM","Tuesday, 31 March 2026, 2:42 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408425/408425_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174331,85941,174246,208011,"Lucía Isabel Tresca","Tuesday, 31 March 2026, 2:57 PM","Tuesday, 31 March 2026, 2:57 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/408683-ejercicio.html.git,2,0,0,0,0,0,0,,1,111
+174341,85941,174246,201418,"Oriana Karen Velásquez Portal","Tuesday, 31 March 2026, 3:14 PM","Tuesday, 31 March 2026, 3:14 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403717/403717_ejercicio_css,2,0,0,0,0,0,0,,1,106
+174342,85850,173938,201418,"Oriana Karen Velásquez Portal","Tuesday, 31 March 2026, 3:14 PM","Tuesday, 31 March 2026, 3:14 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403717/403717_ejercicios_html,2,0,0,0,0,0,0,,1,108
+174343,85941,174246,212195,"Joaquin Oliva","Tuesday, 31 March 2026, 3:17 PM","Tuesday, 31 March 2026, 3:17 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411352/411352_ejercicio_css_bootstrap_semana3.git,2,0,0,0,0,0,0,,1,128
+174347,85850,173938,86743,"Lucas Callamullo","Tuesday, 31 March 2026, 3:27 PM","Tuesday, 31 March 2026, 3:27 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/77520/git-conflict,2,0,0,0,0,0,0,,1,97
+174349,85941,174246,208688,"Elio Ariel Caseres","Tuesday, 31 March 2026, 3:28 PM","Tuesday, 31 March 2026, 3:28 PM",1,"Ejercicio CSS + Bootstrap","buenas adjunto url del repo
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409380/ejercicio-css-bootstrap-clase04-3k1#",2,0,0,0,0,0,0,,6,145
+174353,85941,174246,208712,"Francisco Bartolelli","Tuesday, 31 March 2026, 3:32 PM","Tuesday, 31 March 2026, 3:32 PM",1,"Ejercicio CSS + Bootstrap","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409404/ejercicio-semana-2.git Dice semana dos pero tiene el de esta semana tambien",2,0,0,0,0,0,0,,11,151
+174354,85850,173938,208712,"Francisco Bartolelli","Tuesday, 31 March 2026, 3:32 PM","Tuesday, 31 March 2026, 3:32 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409404/ejercicio-semana-2.git,2,0,0,0,0,0,0,,1,108
+174358,85941,174246,199642,"Mayra Errigo","Tuesday, 31 March 2026, 3:35 PM","Tuesday, 31 March 2026, 3:35 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402077/clases.git,2,0,0,0,0,0,0,,1,96
+174359,85850,173938,208688,"Elio Ariel Caseres","Tuesday, 31 March 2026, 3:36 PM","Tuesday, 31 March 2026, 3:36 PM",1,"Ejercicio HTML","buenas adjunto url del repo
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409380/ejercicio-html-clase03-3k1",2,0,0,0,0,0,0,,6,135
+174371,85850,173938,166953,"Rodrigo Ezequiel Ortiz","Tuesday, 31 March 2026, 4:20 PM","Tuesday, 31 March 2026, 4:20 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96202/96202_ejercicio_html,2,0,0,0,0,0,0,,1,105
+174372,85941,174246,208454,"Martin Alejandro Del Zotto","Tuesday, 31 March 2026, 4:43 PM","Tuesday, 31 March 2026, 4:43 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409142/409142_ejercicio_css,2,0,0,0,0,0,0,,1,106
+174373,85850,173938,198325,"Bruno Ludueña","Tuesday, 31 March 2026, 4:59 PM","Tuesday, 31 March 2026, 4:59 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400784/400784_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174375,85941,174246,198167,"Luciana Human","Tuesday, 31 March 2026, 5:17 PM","Tuesday, 31 March 2026, 5:17 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400615/400615_ejercicio_css,2,0,0,0,0,0,0,,1,106
+174376,85941,174246,209528,"Angel Daniel Pais Rodriguez","Tuesday, 31 March 2026, 5:25 PM","Tuesday, 31 March 2026, 5:25 PM",1,"Ejercicio CSS + Bootstrap","Link del repositorio
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410228/utils-410228/-/tree/main/410228-EjercicioCSS(HTML%20+%20Bootstrap)?ref_type=heads",2,0,0,0,0,0,0,,4,185
+174377,85850,173938,209528,"Angel Daniel Pais Rodriguez","Tuesday, 31 March 2026, 5:25 PM","Tuesday, 31 March 2026, 5:25 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410228/utils-410228/-/tree/main/410228-EjercicioHTML?ref_type=heads,2,0,0,0,0,0,0,,1,146
+174378,85585,173195,209528,"Angel Daniel Pais Rodriguez","Tuesday, 31 March 2026, 5:26 PM","Tuesday, 31 March 2026, 5:26 PM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410228/utils-410228,2,0,0,0,0,0,0,,1,98
+174379,85850,174373,198325,"Bruno Ludueña","Tuesday, 31 March 2026, 5:28 PM","Tuesday, 31 March 2026, 5:28 PM",1,"Ejercicio HTML","correcion:
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400784/400784_ejercicio_html",2,0,0,0,0,0,0,,2,117
+174380,85941,174246,215711,"Ignacio Bunge","Tuesday, 31 March 2026, 5:31 PM","Tuesday, 31 March 2026, 5:31 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408602/408602_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174381,85941,174246,198325,"Bruno Ludueña","Tuesday, 31 March 2026, 5:45 PM","Tuesday, 31 March 2026, 5:45 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400784/400784_ejercicio_css_bootstrap,2,0,0,0,0,0,0,,1,116
+174391,85941,174246,200171,"Alberto Miguel Ahumada","Tuesday, 31 March 2026, 6:29 PM","Tuesday, 31 March 2026, 6:29 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402554/402554_ejercicio_css#,2,0,0,0,0,0,0,,1,107
+174392,85850,173938,212074,"Benicio Pinciroli Bertomeu","Tuesday, 31 March 2026, 6:30 PM","Tuesday, 31 March 2026, 6:30 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411258/clase-2/-/tree/main,2,0,0,0,0,0,0,,1,105
+174409,85941,174246,212074,"Benicio Pinciroli Bertomeu","Tuesday, 31 March 2026, 8:13 PM","Tuesday, 31 March 2026, 8:13 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411258/clase-2/-/tree/main/clase-3,2,0,0,0,0,0,0,,1,113
+174410,85941,174246,208544,"Joaquin Andres Cagliero Palma","Tuesday, 31 March 2026, 8:17 PM","Tuesday, 31 March 2026, 8:17 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409233/409233_css_bootstrap.git,2,0,0,0,0,0,0,,1,110
+174412,85850,173938,64570,"Quiroga Tadeo Fabian Quiroga","Tuesday, 31 March 2026, 9:04 PM","Tuesday, 31 March 2026, 9:04 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/proyecto-81669-html.git,2,0,0,0,0,0,0,,1,108
+174413,85850,173938,215965,"Uriel Agustín Prevotel Sole","Tuesday, 31 March 2026, 10:06 PM","Tuesday, 31 March 2026, 10:06 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409036/ejercicio-html,2,0,0,0,0,0,0,,1,100
+174414,85941,174246,215965,"Uriel Agustín Prevotel Sole","Tuesday, 31 March 2026, 10:06 PM","Tuesday, 31 March 2026, 10:06 PM",1,"Ejercicio CSS + Bootstrap","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409036/ejercicio-html agarre el del html y le añadi css",2,0,0,0,0,0,0,,9,126
+174416,85941,174246,215661,"Facundo Martin Rey Laje","Tuesday, 31 March 2026, 10:29 PM","Tuesday, 31 March 2026, 10:29 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408519/408519_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174418,85941,174246,202352,"Carolina Constanza Pereyra","Wednesday, 1 April 2026, 12:22 AM","Wednesday, 1 April 2026, 12:22 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/404568/404568_ejercicio_css_bootstrap,2,0,0,0,0,0,0,,1,116
+174421,85850,173938,202352,"Carolina Constanza Pereyra","Wednesday, 1 April 2026, 12:58 AM","Wednesday, 1 April 2026, 12:58 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/404568/404568_ejercicio_html,2,0,0,0,0,0,0,,1,107
+174422,85585,173195,207909,"Matías Stupczuk","Wednesday, 1 April 2026, 1:13 AM","Wednesday, 1 April 2026, 1:13 AM",1,"Ejercicio de Git","Participé en sala 12 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/utils-411949-409893-408581-409819-409233-408720-408762-409595.git",2,0,0,0,0,0,0,,6,172
+174423,85850,173938,207909,"Matías Stupczuk","Wednesday, 1 April 2026, 2:12 AM","Wednesday, 1 April 2026, 2:12 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408581/ejercicio-html.git,2,0,0,0,0,0,0,,1,104
+174439,85850,173938,219590,"Melgarejo Camila Ariadna Melgarejo","Wednesday, 1 April 2026, 10:28 AM","Wednesday, 1 April 2026, 10:28 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94825/94825_ejercicio_html,2,0,0,0,0,0,0,,1,105
+174447,85941,174246,216032,"Luciano Santino Buna","Wednesday, 1 April 2026, 11:32 AM","Wednesday, 1 April 2026, 11:32 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409171/409171_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174456,85941,174246,214289,"Ignacio Ariel Badalotti","Wednesday, 1 April 2026, 12:39 PM","Wednesday, 1 April 2026, 12:39 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413335/413335-ejercicio-css,2,0,0,0,0,0,0,,1,106
+174459,85585,173195,214289,"Ignacio Ariel Badalotti","Wednesday, 1 April 2026, 12:46 PM","Wednesday, 1 April 2026, 12:46 PM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/badalotti413335/utils-413335-408480,2,0,0,0,0,0,0,,1,72
+174465,85941,174246,210044,"Juan Ignacio Carpio","Wednesday, 1 April 2026, 1:03 PM","Wednesday, 1 April 2026, 1:03 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410716/410716_ejercicio_css,2,0,0,0,0,0,0,,1,106
+174474,85850,173938,198509,"Lourdes jazmin Alvarez mendoza","Wednesday, 1 April 2026, 4:39 PM","Wednesday, 1 April 2026, 4:39 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400979/400979-proyectohtml.git,2,0,0,0,0,0,0,,1,109
+174477,85941,174246,207757,"Hugo Francisco Lara","Wednesday, 1 April 2026, 5:39 PM","Wednesday, 1 April 2026, 5:39 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408427/408427_ejercicio_css/-/tree/a4b4258de96b8223d354371e2e341569da47d7f4/,2,0,0,0,0,0,0,,1,155
+174480,85941,174246,216314,"Lautaro Ezequiel Rodriguez","Wednesday, 1 April 2026, 6:32 PM","Wednesday, 1 April 2026, 6:32 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414215/414215-ejercicio_css_bootstrap.git,2,0,0,0,0,0,0,,1,120
+174489,85941,174246,209058,"Federico Andrés Nieto","Thursday, 2 April 2026, 1:12 AM","Thursday, 2 April 2026, 1:12 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410391/410391_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174490,85850,173938,209058,"Federico Andrés Nieto","Thursday, 2 April 2026, 1:13 AM","Thursday, 2 April 2026, 1:13 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410391/ejercicio-html.git,2,0,0,0,0,0,0,,1,104
+174509,85850,173938,215749,"Maria Victoria Gobbi","Thursday, 2 April 2026, 5:13 PM","Thursday, 2 April 2026, 5:13 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408678/408678_ejercio_html.git,2,0,0,0,0,0,0,,1,109
+174510,85941,174246,215749,"Maria Victoria Gobbi","Thursday, 2 April 2026, 5:15 PM","Thursday, 2 April 2026, 5:15 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408678/408678_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174512,85941,174246,64570,"Quiroga Tadeo Fabian Quiroga","Thursday, 2 April 2026, 5:34 PM","Thursday, 2 April 2026, 5:34 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/proyecto81669-css.git,2,0,0,0,0,0,0,,1,106
+174515,85941,174246,198509,"Lourdes jazmin Alvarez mendoza","Thursday, 2 April 2026, 6:23 PM","Thursday, 2 April 2026, 6:23 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400979/400979-proyectocss.git,2,0,0,0,0,0,0,,1,108
+174531,85941,174246,213437,"Tomás Romero Guiñazú","Thursday, 2 April 2026, 10:38 PM","Thursday, 2 April 2026, 10:38 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412550/ejercicio-css,2,0,0,0,0,0,0,,1,99
+174534,85850,173938,215600,"Sofía Morales","Thursday, 2 April 2026, 11:00 PM","Thursday, 2 April 2026, 11:00 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/408403_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174535,85941,174246,84989,"Alejo Cruz Lescano","Thursday, 2 April 2026, 11:27 PM","Thursday, 2 April 2026, 11:27 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/90616/90616_ejercicio_css.git,2,0,0,0,0,0,0,,1,108
+174553,85850,173938,199688,"José Francisco Pizarro","Friday, 3 April 2026, 5:30 PM","Friday, 3 April 2026, 5:30 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402123/portafolio_pizarro_402123.git,2,0,0,0,0,0,0,,1,115
+174554,85941,174246,199688,"José Francisco Pizarro","Friday, 3 April 2026, 5:30 PM","Friday, 3 April 2026, 5:30 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402123/portafolio_pizarro_402123.git,2,0,0,0,0,0,0,,1,115
+174557,85941,174246,216041,"Juan pedro Caldo","Friday, 3 April 2026, 6:20 PM","Friday, 3 April 2026, 6:22 PM",1,"Ejercicio CSS + Bootstrap","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409688/409688_ejercicio_css
+
+",2,0,0,0,0,0,0,,1,106
+174562,85941,174246,209959,"David Ismael López Rodríguez","Friday, 3 April 2026, 6:44 PM","Friday, 3 April 2026, 6:44 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410630/410630_ejercicio_css,2,0,0,0,0,0,0,,1,106
+174565,85850,173938,259458,"Sofi Sarasola","Friday, 3 April 2026, 8:26 PM","Friday, 3 April 2026, 8:26 PM",1,"Ejercicio HTML","Ejercicio HTML link : https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409339/ejercicio_html1",2,0,0,0,0,0,0,,5,119
+174574,85941,174246,105873,"Lautaro Santillan","Saturday, 4 April 2026, 9:52 AM","Saturday, 4 April 2026, 9:52 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96794/96794_ejercicio_css.git,2,0,0,0,0,0,0,,1,108
+174585,85941,174246,215600,"Sofía Morales","Saturday, 4 April 2026, 2:34 PM","Saturday, 4 April 2026, 2:34 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/408403_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174603,85850,173938,199670,"Julián Eduardo Cavagnaro","Saturday, 4 April 2026, 9:16 PM","Saturday, 4 April 2026, 9:16 PM",1,"Ejercicio HTML","Ejercicio HTML: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402105/402105_ejercicio_html",2,0,0,0,0,0,0,,3,121
+174609,85941,174246,215023,"Constanza Aguirre","Sunday, 5 April 2026, 10:54 AM","Sunday, 5 April 2026, 10:54 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409673/409673-ejercicios,2,0,0,0,0,0,0,,1,103
+174822,85941,174246,214714,"Martina Barrenechea","Monday, 6 April 2026, 3:56 PM","Monday, 6 April 2026, 3:56 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408765/408765_ejercio_html.git,2,0,0,0,0,0,0,,1,109
+174849,85941,174246,215561,"Lucas Alejandro González Tempel","Monday, 6 April 2026, 6:56 PM","Monday, 6 April 2026, 6:56 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408335/408335_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174869,85941,174246,215608,"Sofia Maricel Olivieri Rojas","Monday, 6 April 2026, 8:32 PM","Monday, 6 April 2026, 8:32 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408420/408420_ejercio_css.git,2,0,0,0,0,0,0,,1,108
+174895,85941,174246,199670,"Julián Eduardo Cavagnaro","Tuesday, 7 April 2026, 12:54 AM","Tuesday, 7 April 2026, 12:54 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402105/402105_ejercicio_css,2,0,0,0,0,0,0,,1,106
+174900,85941,174246,216047,"Joaquin Lario Garcia","Tuesday, 7 April 2026, 7:44 AM","Tuesday, 7 April 2026, 7:44 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410343/410343_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174901,85850,173938,216047,"Joaquin Lario Garcia","Tuesday, 7 April 2026, 7:51 AM","Tuesday, 7 April 2026, 7:51 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410343/410343_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174902,85850,173938,208013,"Lautaro Meichtri","Tuesday, 7 April 2026, 7:55 AM","Tuesday, 7 April 2026, 7:55 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408685/408685_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174903,85941,174246,208013,"Lautaro Meichtri","Tuesday, 7 April 2026, 7:55 AM","Tuesday, 7 April 2026, 7:55 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408685/css-bootstrap.git,2,0,0,0,0,0,0,,1,103
+174908,85941,174246,213994,"Luciano Felice","Tuesday, 7 April 2026, 8:12 AM","Tuesday, 7 April 2026, 8:12 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413077/ejercicio-clase-2-html/-/commit/a482e53a452f1b86964aac2c2e9aa9ed2465ce19,2,0,0,0,0,0,0,,1,158
+174909,85941,174246,209117,"Luis Andrés Robledo Soldá","Tuesday, 7 April 2026, 8:27 AM","Tuesday, 7 April 2026, 8:27 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409823/css-aplicado-a-html-bootstrap,2,0,0,0,0,0,0,,1,115
+174915,85850,173938,216635,"Genaro Assales Risso","Tuesday, 7 April 2026, 9:37 AM","Tuesday, 7 April 2026, 9:37 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415006/clase2-html,2,0,0,0,0,0,0,,1,97
+174916,85941,174246,110638,"Victoria Heredia","Tuesday, 7 April 2026, 9:37 AM","Tuesday, 7 April 2026, 9:37 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/95400/95400_ejercicio_css,2,0,0,0,0,0,0,,1,104
+174917,85850,173938,110638,"Victoria Heredia","Tuesday, 7 April 2026, 9:38 AM","Tuesday, 7 April 2026, 9:38 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/95400/95400_ejercicio_html,2,0,0,0,0,0,0,,1,105
+174918,85941,174246,216635,"Genaro Assales Risso","Tuesday, 7 April 2026, 9:40 AM","Tuesday, 7 April 2026, 9:40 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415006/clase-3-css,2,0,0,0,0,0,0,,1,97
+174919,85850,173938,77454,"Cristian Burgos","Tuesday, 7 April 2026, 9:41 AM","Tuesday, 7 April 2026, 9:41 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/85418/85418_ejercicio_html,2,0,0,0,0,0,0,,1,105
+174920,85850,173938,209842,"Mateo Machuca","Tuesday, 7 April 2026, 9:42 AM","Tuesday, 7 April 2026, 9:42 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/410535_ejercicio_html,2,0,0,0,0,0,0,,1,107
+174921,85941,174246,209842,"Mateo Machuca","Tuesday, 7 April 2026, 9:42 AM","Tuesday, 7 April 2026, 9:42 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/410535_ejercicio_html,2,0,0,0,0,0,0,,1,107
+174922,85941,174246,215817,"Luciano Cipolla Delcantare","Tuesday, 7 April 2026, 9:44 AM","Tuesday, 7 April 2026, 9:44 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408808/ejercicios-dds,2,0,0,0,0,0,0,,1,100
+174923,85941,174246,216037,"Mateo Montovani","Tuesday, 7 April 2026, 9:47 AM","Tuesday, 7 April 2026, 9:47 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/409592_ejercicio_css,2,0,0,0,0,0,0,,1,106
+174924,85850,173938,216037,"Mateo Montovani","Tuesday, 7 April 2026, 9:48 AM","Tuesday, 7 April 2026, 9:48 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/html-clase1,2,0,0,0,0,0,0,,1,97
+174928,85941,174246,210042,"Magali Agostina Vivas Garay","Tuesday, 7 April 2026, 9:56 AM","Tuesday, 7 April 2026, 9:56 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410714/410714ejerciciocssbootstrap.git,2,0,0,0,0,0,0,,1,117
+174929,85941,174246,210854,"Mateo Castro Rolando","Tuesday, 7 April 2026, 9:57 AM","Tuesday, 7 April 2026, 9:57 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410903/ej-css,2,0,0,0,0,0,0,,1,92
+174930,85850,173938,210854,"Mateo Castro Rolando","Tuesday, 7 April 2026, 9:57 AM","Tuesday, 7 April 2026, 9:57 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410903/ej-html,2,0,0,0,0,0,0,,1,93
+174938,86190,0,52901,"Giampieri Navarro Jeremias Caleb Giampieri Navarro","Tuesday, 7 April 2026, 10:22 AM","Tuesday, 7 April 2026, 10:22 AM",1,"Ejercicio Modelo de Caja","Contestar con el link del repositorio en donde hicieron el ejercicio de la clase 07/04/2026
+",2,1,0,0,0,0,0,,15,77
+174939,86191,0,52901,"Giampieri Navarro Jeremias Caleb Giampieri Navarro","Tuesday, 7 April 2026, 10:23 AM","Tuesday, 7 April 2026, 10:23 AM",1,"Ejercicio Bootstrap","Contestar con el link del repositorio en donde hicieron el ejercicio de la clase 07/04/2026
+",2,1,0,0,0,0,0,,15,77
+174941,86190,174938,215561,"Lucas Alejandro González Tempel","Tuesday, 7 April 2026, 10:24 AM","Tuesday, 7 April 2026, 10:24 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408335/408335_ejercicio_modelocajas.git,2,0,0,0,0,0,0,,1,118
+174942,86190,174938,213994,"Luciano Felice","Tuesday, 7 April 2026, 10:24 AM","Tuesday, 7 April 2026, 10:24 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413077/clase-07-04-2026-boostrap#,2,0,0,0,0,0,0,,1,112
+174943,86190,174938,214714,"Martina Barrenechea","Tuesday, 7 April 2026, 10:25 AM","Tuesday, 7 April 2026, 10:25 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408765/408765_clase07-04.git,2,0,0,0,0,0,0,,1,107
+174944,85941,174246,207206,"Gino Bringas Piersigilli","Tuesday, 7 April 2026, 10:29 AM","Tuesday, 7 April 2026, 10:29 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401761/ejerciciocss,2,0,0,0,0,0,0,,1,98
+174945,86190,174938,208782,"Ezequiel Purro","Tuesday, 7 April 2026, 10:29 AM","Tuesday, 7 April 2026, 10:29 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/409476_modelo_de_cajas.git,2,0,0,0,0,0,0,,1,112
+174946,85850,173938,207206,"Gino Bringas Piersigilli","Tuesday, 7 April 2026, 10:29 AM","Tuesday, 7 April 2026, 10:29 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401761/ejerciciohtml,2,0,0,0,0,0,0,,1,99
+174947,86190,174938,212195,"Joaquin Oliva","Tuesday, 7 April 2026, 10:31 AM","Tuesday, 7 April 2026, 10:31 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411352/ejercicio_cajas.git,2,0,0,0,0,0,0,,1,105
+174948,86191,174939,213437,"Tomás Romero Guiñazú","Tuesday, 7 April 2026, 10:32 AM","Tuesday, 7 April 2026, 10:32 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412550/ejercicio-bootstrap,2,0,0,0,0,0,0,,1,105
+174949,86190,174938,207614,"María Virginia Cavallero","Tuesday, 7 April 2026, 10:33 AM","Tuesday, 7 April 2026, 10:33 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/html-modelocajas-bootstrap.git,2,0,0,0,0,0,0,,1,116
+174950,85941,174246,212869,"Lucas Francisco Villafuerte","Tuesday, 7 April 2026, 10:33 AM","Tuesday, 7 April 2026, 10:33 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411949/ejercicio_css.git,2,0,0,0,0,0,0,,1,103
+174953,86190,174938,198442,"Lucas Ezequiel Sander","Tuesday, 7 April 2026, 10:33 AM","Tuesday, 7 April 2026, 10:33 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400908/400908_ejercicio_modelo-caja_clase5.git,2,0,0,0,0,0,0,,1,125
+174954,86191,174939,207614,"María Virginia Cavallero","Tuesday, 7 April 2026, 10:34 AM","Tuesday, 7 April 2026, 10:34 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/html-modelocajas-bootstrap.git,2,0,0,0,0,0,0,,1,116
+174955,86190,174938,213437,"Tomás Romero Guiñazú","Tuesday, 7 April 2026, 10:34 AM","Tuesday, 7 April 2026, 10:34 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412550/ejercicio-modelado-de-cajas,2,0,0,0,0,0,0,,1,113
+174956,86190,174938,199004,"Agustín Nicolás Oliva","Tuesday, 7 April 2026, 10:34 AM","Tuesday, 7 April 2026, 10:34 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401466/401466_07de04.git,2,0,0,0,0,0,0,,1,103
+174957,86191,174939,215672,"Lucía Martínez","Tuesday, 7 April 2026, 10:36 AM","Tuesday, 7 April 2026, 10:36 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408540/408540_bootstrapycajas.git,2,0,0,0,0,0,0,,1,112
+174958,86190,174938,215672,"Lucía Martínez","Tuesday, 7 April 2026, 10:36 AM","Tuesday, 7 April 2026, 10:36 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408540/408540_bootstrapycajas.git,2,0,0,0,0,0,0,,1,112
+174959,86191,174939,215606,"Denise Nagel","Tuesday, 7 April 2026, 10:39 AM","Tuesday, 7 April 2026, 10:39 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408414/clase7-4/-/blob/acc0ef7db0dda397bd0425c407810840625463bf/ejemplo_bootstrap.zip,2,0,0,0,0,0,0,,1,164
+174962,86191,174939,215681,"Santiago Peretti","Tuesday, 7 April 2026, 10:46 AM","Tuesday, 7 April 2026, 10:46 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408551/ejerciciobootstrap-07-04.git,2,0,0,0,0,0,0,,1,114
+174963,86191,174939,199004,"Agustín Nicolás Oliva","Tuesday, 7 April 2026, 10:47 AM","Tuesday, 7 April 2026, 10:47 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401466/401466_07de04.git,2,0,0,0,0,0,0,,1,103
+174964,85850,173938,199004,"Agustín Nicolás Oliva","Tuesday, 7 April 2026, 10:48 AM","Tuesday, 7 April 2026, 10:48 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401466/401466_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174965,86190,174938,215681,"Santiago Peretti","Tuesday, 7 April 2026, 10:48 AM","Tuesday, 7 April 2026, 10:48 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408551/ejercicio-modelodecajas-07-04.git,2,0,0,0,0,0,0,,1,119
+174966,86190,174938,215606,"Denise Nagel","Tuesday, 7 April 2026, 10:50 AM","Tuesday, 7 April 2026, 10:50 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408414/clase7-4/-/blob/bbb57c5cf58877a45ceb11879dd0a88357c25930/modelo-cajas.zip,2,0,0,0,0,0,0,,1,159
+174967,86190,174938,210854,"Mateo Castro Rolando","Tuesday, 7 April 2026, 10:50 AM","Tuesday, 7 April 2026, 10:50 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410903/modelos-de-caja#,2,0,0,0,0,0,0,,1,102
+174968,86190,174938,207206,"Gino Bringas Piersigilli","Tuesday, 7 April 2026, 10:50 AM","Tuesday, 7 April 2026, 10:50 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401761/modelo-de-cajas/-/blob/main/clase_7_4.zip,2,0,0,0,0,0,0,,1,127
+174969,86191,174939,207206,"Gino Bringas Piersigilli","Tuesday, 7 April 2026, 10:51 AM","Tuesday, 7 April 2026, 10:51 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401761/clase-7-4,2,0,0,0,0,0,0,,1,95
+174970,86190,174938,208813,"Montserrat Aidalé Rosalia Porras Salazar","Tuesday, 7 April 2026, 10:51 AM","Tuesday, 7 April 2026, 10:51 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409508/modelo-de-caja.git,2,0,0,0,0,0,0,,1,104
+174971,86191,174939,211975,"Ramiro Lujan","Tuesday, 7 April 2026, 10:52 AM","Tuesday, 7 April 2026, 10:52 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411150/clase_07_04.git,2,0,0,0,0,0,0,,1,101
+174972,86190,174938,211975,"Ramiro Lujan","Tuesday, 7 April 2026, 10:52 AM","Tuesday, 7 April 2026, 10:52 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411150/clase_07_04.git,2,0,0,0,0,0,0,,1,101
+174973,86190,174938,216011,"Facundo Leiva","Tuesday, 7 April 2026, 10:52 AM","Tuesday, 7 April 2026, 10:52 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409108/409108_ejercicio_cajas.git,2,0,0,0,0,0,0,,1,112
+174974,86190,174938,215817,"Luciano Cipolla Delcantare","Tuesday, 7 April 2026, 10:54 AM","Tuesday, 7 April 2026, 10:54 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408808/ejerciciosdeclase07_04,2,0,0,0,0,0,0,,1,108
+174975,85941,174246,216011,"Facundo Leiva","Tuesday, 7 April 2026, 10:54 AM","Tuesday, 7 April 2026, 10:54 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409108/409108_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+174976,86191,174939,215817,"Luciano Cipolla Delcantare","Tuesday, 7 April 2026, 10:54 AM","Tuesday, 7 April 2026, 10:54 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408808/ejerciciosdeclase07_04,2,0,0,0,0,0,0,,1,108
+174977,85850,173938,216011,"Facundo Leiva","Tuesday, 7 April 2026, 10:55 AM","Tuesday, 7 April 2026, 10:55 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409108/409108_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+174978,86191,174939,215821,"Santiago Mateo Gamond","Tuesday, 7 April 2026, 10:56 AM","Tuesday, 7 April 2026, 10:56 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408814/bootstrap-excercise,2,0,0,0,0,0,0,,1,105
+174979,86190,174938,215821,"Santiago Mateo Gamond","Tuesday, 7 April 2026, 10:57 AM","Tuesday, 7 April 2026, 10:59 AM",1,"Ejercicio Modelo de Caja","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408814/bootstrap-excercise
+ 
+HICE EL EJERCICIO DE CAJAS EN EL MISMO QUE EL DE BOOTSTRAP DADO QUE ES DE LA MISMA CLASE
+ ",2,0,0,0,0,0,0,,20,177
+174980,86191,174939,215610,"Victoria Fajardo Carranza","Tuesday, 7 April 2026, 11:07 AM","Tuesday, 7 April 2026, 11:07 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408425/408425_ejemplo_bootstrap.git,2,0,0,0,0,0,0,,1,114
+174982,86191,174939,212195,"Joaquin Oliva","Tuesday, 7 April 2026, 11:11 AM","Tuesday, 7 April 2026, 11:11 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411352/ejercicio_cajas_y_bootstrap.git,2,0,0,0,0,0,0,,1,117
+174984,86191,174939,208813,"Montserrat Aidalé Rosalia Porras Salazar","Tuesday, 7 April 2026, 11:17 AM","Tuesday, 7 April 2026, 11:17 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409508/bootstrap.git,2,0,0,0,0,0,0,,1,99
+174985,86191,174939,209959,"David Ismael López Rodríguez","Tuesday, 7 April 2026, 11:18 AM","Tuesday, 7 April 2026, 11:18 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410630/ejercicio-bootstrap,2,0,0,0,0,0,0,,1,105
+174987,86190,174938,216573,"Agustin Suau","Tuesday, 7 April 2026, 11:23 AM","Tuesday, 7 April 2026, 11:23 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414813/clase7_4.git,2,0,0,0,0,0,0,,1,98
+174988,86191,174939,216573,"Agustin Suau","Tuesday, 7 April 2026, 11:23 AM","Tuesday, 7 April 2026, 11:23 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414813/clase7_4.git,2,0,0,0,0,0,0,,1,98
+174990,86191,174939,215837,"Facundo Ezequiel Fiorani","Tuesday, 7 April 2026, 11:26 AM","Tuesday, 7 April 2026, 11:26 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/proyectodds/-/tree/main/ActividadClase?ref_type=heads,2,0,0,0,0,0,0,,1,139
+174991,86190,174938,215837,"Facundo Ezequiel Fiorani","Tuesday, 7 April 2026, 11:26 AM","Tuesday, 7 April 2026, 11:26 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/proyectodds/-/tree/main/ActividadClase2?ref_type=heads,2,0,0,0,0,0,0,,1,140
+174992,86191,174939,213296,"Julieta Ayelen Fuentes","Tuesday, 7 April 2026, 11:30 AM","Tuesday, 7 April 2026, 11:30 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412403/07-04bootstrap.git,2,0,0,0,0,0,0,,1,104
+174994,86191,174939,209269,"Marcos Nicolás Maraboli","Tuesday, 7 April 2026, 11:37 AM","Tuesday, 7 April 2026, 11:37 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409979/409979_ejercicio_bootstrap.git,2,0,0,0,0,0,0,,1,116
+174996,86191,174939,215610,"Victoria Fajardo Carranza","Tuesday, 7 April 2026, 11:37 AM","Tuesday, 7 April 2026, 11:37 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408425/408425_modelo_cajas.git,2,0,0,0,0,0,0,,1,109
+174998,86191,174939,209842,"Mateo Machuca","Tuesday, 7 April 2026, 11:41 AM","Tuesday, 7 April 2026, 11:41 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/boostrap-modelado-de-cajas#,2,0,0,0,0,0,0,,1,113
+174999,86191,174939,198325,"Bruno Ludueña","Tuesday, 7 April 2026, 11:41 AM","Tuesday, 7 April 2026, 11:41 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400784/400784-ejercicio-bootstrap,2,0,0,0,0,0,0,,1,112
+175000,86190,174938,209842,"Mateo Machuca","Tuesday, 7 April 2026, 11:42 AM","Tuesday, 7 April 2026, 11:42 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/boostrap-modelado-de-cajas#,2,0,0,0,0,0,0,,1,113
+175001,86190,174938,213296,"Julieta Ayelen Fuentes","Tuesday, 7 April 2026, 11:43 AM","Tuesday, 7 April 2026, 11:43 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412403/07-04cajas.git,2,0,0,0,0,0,0,,1,100
+175004,86190,174938,209603,"Lautaro Gabriel Bautista","Tuesday, 7 April 2026, 11:50 AM","Tuesday, 7 April 2026, 11:50 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410304/clase-07-04-modelo-de-cajas.git,2,0,0,0,0,0,0,,1,117
+175005,86191,174939,209603,"Lautaro Gabriel Bautista","Tuesday, 7 April 2026, 11:50 AM","Tuesday, 7 April 2026, 11:50 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410304/clase-07-04-bootstrap.git,2,0,0,0,0,0,0,,1,111
+175008,86191,174939,215748,"Mateo Agustin Aronna","Tuesday, 7 April 2026, 12:10 PM","Tuesday, 7 April 2026, 12:10 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408677/408677_ejercicio_boostrap.git,2,0,0,0,0,0,0,,1,115
+175011,86190,174938,215711,"Ignacio Bunge","Tuesday, 7 April 2026, 12:11 PM","Tuesday, 7 April 2026, 12:11 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408602/408602_modelo-cajas-vscode.git,2,0,0,0,0,0,0,,1,116
+175012,86190,174938,209269,"Marcos Nicolás Maraboli","Tuesday, 7 April 2026, 12:17 PM","Tuesday, 7 April 2026, 12:17 PM",1,"Ejercicio Modelo de Caja","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409979/409979_ejercicio_modcajas.git
+hice una caja con el html y styles de la clase pasada",2,0,0,0,0,0,0,,13,157
+175014,86190,174938,209959,"David Ismael López Rodríguez","Tuesday, 7 April 2026, 12:21 PM","Tuesday, 7 April 2026, 12:21 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410630/ejercicio-modelo-de-caja,2,0,0,0,0,0,0,,1,110
+175016,86190,174938,199422,"Valentin Mansilla","Tuesday, 7 April 2026, 12:35 PM","Tuesday, 7 April 2026, 12:35 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401886/modelo-cajas-vscode,2,0,0,0,0,0,0,,1,105
+175017,86191,174939,215711,"Ignacio Bunge","Tuesday, 7 April 2026, 12:39 PM","Tuesday, 7 April 2026, 12:39 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408602/408602_ejercicio-bootstrap.git,2,0,0,0,0,0,0,,1,116
+175018,86191,174939,210042,"Magali Agostina Vivas Garay","Tuesday, 7 April 2026, 12:43 PM","Tuesday, 7 April 2026, 12:43 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410714/bootstrap-modeladocajas.git,2,0,0,0,0,0,0,,1,113
+175020,86190,174938,208011,"Lucía Isabel Tresca","Tuesday, 7 April 2026, 12:57 PM","Tuesday, 7 April 2026, 12:57 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/408683-ejercicio.html.git,2,0,0,0,0,0,0,,1,111
+175021,86191,174939,208011,"Lucía Isabel Tresca","Tuesday, 7 April 2026, 12:58 PM","Tuesday, 7 April 2026, 12:58 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/clase-semana4.git,2,0,0,0,0,0,0,,1,103
+175023,86191,174939,215691,"Marlén Sofía König Soria","Tuesday, 7 April 2026, 1:07 PM","Tuesday, 7 April 2026, 1:07 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408567/ejercicio-bootstrap.git,2,0,0,0,0,0,0,,1,109
+175024,86190,174938,215691,"Marlén Sofía König Soria","Tuesday, 7 April 2026, 1:11 PM","Tuesday, 7 April 2026, 1:11 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408567/408567_ejercicio_modelocaja.git,2,0,0,0,0,0,0,,1,117
+175025,86190,174938,216041,"Juan pedro Caldo","Tuesday, 7 April 2026, 1:12 PM","Tuesday, 7 April 2026, 1:16 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409688/408567_ejercicio_modelocaja,2,0,0,0,0,0,0,,1,113
+175026,86191,174939,216041,"Juan pedro Caldo","Tuesday, 7 April 2026, 1:18 PM","Tuesday, 7 April 2026, 1:18 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409688/ejercicio-bootstrap,2,0,0,0,0,0,0,,1,105
+175028,86190,174938,214289,"Ignacio Ariel Badalotti","Tuesday, 7 April 2026, 1:20 PM","Tuesday, 7 April 2026, 1:20 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413335/modelo-de-cajas,2,0,0,0,0,0,0,,1,101
+175035,86190,174938,216651,"Franco Castrillo","Tuesday, 7 April 2026, 2:19 PM","Tuesday, 7 April 2026, 2:19 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415184/415184-ejercicio_css_bootstrap.git,2,0,0,0,0,0,0,,1,120
+175037,86191,174939,215793,"Alejo Galvan","Tuesday, 7 April 2026, 2:27 PM","Tuesday, 7 April 2026, 2:27 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408762/ejercicio_cajaybootstrap,2,0,0,0,0,0,0,,1,110
+175040,86190,174938,215793,"Alejo Galvan","Tuesday, 7 April 2026, 2:49 PM","Tuesday, 7 April 2026, 2:49 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408762/ejercicio_cajaybootstrap,2,0,0,0,0,0,0,,1,110
+175044,86190,174938,208454,"Martin Alejandro Del Zotto","Tuesday, 7 April 2026, 3:19 PM","Tuesday, 7 April 2026, 3:19 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409142/409142_ejercicio_cajas,2,0,0,0,0,0,0,,1,108
+175047,86191,174939,208454,"Martin Alejandro Del Zotto","Tuesday, 7 April 2026, 3:25 PM","Tuesday, 7 April 2026, 3:25 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409142/409142_ejercicio_bootstrap,2,0,0,0,0,0,0,,1,112
+175058,86191,174939,208514,"Nicolás Martín Terreno Cortés","Tuesday, 7 April 2026, 4:17 PM","Tuesday, 7 April 2026, 4:17 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409202/409202_ejercicio_bootstrap.git,2,0,0,0,0,0,0,,1,116
+175060,86190,174938,210044,"Juan Ignacio Carpio","Tuesday, 7 April 2026, 4:24 PM","Tuesday, 7 April 2026, 4:24 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410716/410716-ejercicio-cajas,2,0,0,0,0,0,0,,1,108
+175061,86191,174939,208782,"Ezequiel Purro","Tuesday, 7 April 2026, 4:26 PM","Tuesday, 7 April 2026, 4:26 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/409476_ejercicio_boostrap.git,2,0,0,0,0,0,0,,1,115
+175062,86190,174938,208514,"Nicolás Martín Terreno Cortés","Tuesday, 7 April 2026, 4:32 PM","Tuesday, 7 April 2026, 4:32 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409202/409202_modelocajasvscode.git,2,0,0,0,0,0,0,,1,114
+175064,86191,174939,212869,"Lucas Francisco Villafuerte","Tuesday, 7 April 2026, 4:38 PM","Tuesday, 7 April 2026, 4:38 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411949/ejercicio_bootstrap.git,2,0,0,0,0,0,0,,1,109
+175067,86190,174938,200744,"Angel Lautaro Casas","Tuesday, 7 April 2026, 5:09 PM","Tuesday, 7 April 2026, 5:09 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403106/ejemplo_cajass.git,2,0,0,0,0,0,0,,1,104
+175068,86190,174938,212869,"Lucas Francisco Villafuerte","Tuesday, 7 April 2026, 5:09 PM","Tuesday, 7 April 2026, 5:09 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411949/ejercicio_modelo_de_cajas_vscode.git,2,0,0,0,0,0,0,,1,122
+175069,85850,173938,200744,"Angel Lautaro Casas","Tuesday, 7 April 2026, 5:12 PM","Tuesday, 7 April 2026, 5:12 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403106/ejemplo_clase.git,2,0,0,0,0,0,0,,1,103
+175075,86191,174939,200744,"Angel Lautaro Casas","Tuesday, 7 April 2026, 6:00 PM","Tuesday, 7 April 2026, 6:00 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403106/ejemplo_bootstrap.git,2,0,0,0,0,0,0,,1,107
+175117,85941,174246,207909,"Matías Stupczuk","Tuesday, 7 April 2026, 8:13 PM","Tuesday, 7 April 2026, 8:13 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408581/ejercicio_css.git,2,0,0,0,0,0,0,,1,103
+175118,85585,173195,215024,"Marcelo Groeting","Tuesday, 7 April 2026, 8:13 PM","Tuesday, 7 April 2026, 8:13 PM",1,"Ejercicio de Git","Participe en sala 10 URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414915/hola5",2,0,0,0,0,0,0,,6,112
+175119,85941,174246,215024,"Marcelo Groeting","Tuesday, 7 April 2026, 8:15 PM","Tuesday, 7 April 2026, 8:15 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414915/semana2,2,0,0,0,0,0,0,,1,93
+175120,86190,174938,215024,"Marcelo Groeting","Tuesday, 7 April 2026, 8:17 PM","Tuesday, 7 April 2026, 8:17 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414915/semana2,2,0,0,0,0,0,0,,1,93
+175121,85850,173938,215024,"Marcelo Groeting","Tuesday, 7 April 2026, 8:18 PM","Tuesday, 7 April 2026, 8:18 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414915/semana3,2,0,0,0,0,0,0,,1,93
+175122,86191,174939,215024,"Marcelo Groeting","Tuesday, 7 April 2026, 8:18 PM","Tuesday, 7 April 2026, 8:18 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414915/semana3,2,0,0,0,0,0,0,,1,93
+175133,86191,174939,215661,"Facundo Martin Rey Laje","Tuesday, 7 April 2026, 9:04 PM","Tuesday, 7 April 2026, 9:04 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408519/clase_semana_4.git,2,0,0,0,0,0,0,,1,104
+175150,86191,174939,197824,"Luis Agustín Torres Baldo","Tuesday, 7 April 2026, 10:37 PM","Tuesday, 7 April 2026, 10:37 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400254/clase07042026,2,0,0,0,0,0,0,,1,99
+175151,86190,174938,197824,"Luis Agustín Torres Baldo","Tuesday, 7 April 2026, 10:38 PM","Tuesday, 7 April 2026, 10:38 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400254/clase07042026,2,0,0,0,0,0,0,,1,99
+175242,86191,174939,215600,"Sofía Morales","Wednesday, 8 April 2026, 5:57 PM","Wednesday, 8 April 2026, 5:57 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/408403_ejercicio_bootstrap.git,2,0,0,0,0,0,0,,1,116
+175243,86190,174938,215600,"Sofía Morales","Wednesday, 8 April 2026, 5:58 PM","Wednesday, 8 April 2026, 5:58 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/408403_ejercicio_modelocaja.git,2,0,0,0,0,0,0,,1,117
+175277,86191,174939,208544,"Joaquin Andres Cagliero Palma","Wednesday, 8 April 2026, 9:05 PM","Wednesday, 8 April 2026, 9:05 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409233/ejercicio_bootstrap.git,2,0,0,0,0,0,0,,1,109
+175279,86190,174938,208544,"Joaquin Andres Cagliero Palma","Wednesday, 8 April 2026, 9:06 PM","Wednesday, 8 April 2026, 9:06 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409233/ejercicio_modelodecajas.git,2,0,0,0,0,0,0,,1,113
+175369,86190,174938,210042,"Magali Agostina Vivas Garay","Thursday, 9 April 2026, 12:29 PM","Thursday, 9 April 2026, 12:29 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410714/bootstrap-modeladocajas.git,2,0,0,0,0,0,0,,1,113
+175378,85941,174246,208668,"Joaquin Larroca Carrara","Thursday, 9 April 2026, 1:42 PM","Thursday, 9 April 2026, 1:42 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409359/409359/-/blob/main/409359_ejercicio_css.zip?ref_type=heads,2,0,0,0,0,0,0,,1,144
+175379,85941,174246,296501,"Simón Ernesto Lozada Navarro","Thursday, 9 April 2026, 1:44 PM","Thursday, 9 April 2026, 1:44 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410539/proyecto-htm,2,0,0,0,0,0,0,,1,98
+175380,85585,173195,208426,"Tomas Diaz","Thursday, 9 April 2026, 1:44 PM","Thursday, 9 April 2026, 1:44 PM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409114/prueba,2,0,0,0,0,0,0,,1,92
+175381,85850,173938,208426,"Tomas Diaz","Thursday, 9 April 2026, 1:45 PM","Thursday, 9 April 2026, 1:45 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409114/html,2,0,0,0,0,0,0,,1,90
+175382,86385,0,5182,"Javier Ignacio Iglesias","Thursday, 9 April 2026, 1:45 PM","Thursday, 9 April 2026, 2:27 PM",1,ejercicio_paises_europa,"El ejercicio es individual, el grupo es para compartir y corregirse entre pares.
+
+ej si el grupo lo forman los alumnos A,B,C.   =>    A corrige B, B corrige C y C corrige A.
+
+Contestar a este Debate con el siguiente modelo:
+
+_CORRIJO A:  LEGAJO - APELLIDO NOMBRE,  EJERCICIO “EJERCICIO_PAISES_EUROPA”_
+_LINK REPOSITORIO LABSYS: ........_
+
+	* _FUNCIONA PASO 1:  [SI/NO]_
+	* _FUNCIONA PASO2: [SI/NO]_
+	* _FUNCIONA PASO 3 [SI/NO]_
+	* _FUNCIONA PASO 4: [SI/NO]_
+	* _FUNCIONA PASO 5: [SI/NO]_
+	* _FUNCIONA PASO 6: [SI/NO]_
+	* _OBSERVACIONES: _
+
+",2,1,0,0,0,0,0,,77,418
+175385,85941,174246,208787,"María Lourdes Gor","Thursday, 9 April 2026, 1:47 PM","Thursday, 9 April 2026, 1:47 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/utils408551-81669-94483-409481-401466-408808-408443-85418-410721-408540.git,2,0,0,0,0,0,0,,1,160
+175386,85850,173938,208787,"María Lourdes Gor","Thursday, 9 April 2026, 1:50 PM","Thursday, 9 April 2026, 1:50 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409481/semana-2.git,2,0,0,0,0,0,0,,1,98
+175387,85850,173938,209186,"Efrain Emiliano Barahona","Thursday, 9 April 2026, 1:52 PM","Thursday, 9 April 2026, 1:52 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/409893_ejercicio_html,2,0,0,0,0,0,0,,1,107
+175388,85941,174246,209186,"Efrain Emiliano Barahona","Thursday, 9 April 2026, 1:53 PM","Thursday, 9 April 2026, 1:53 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/409893_ejercicio_css,2,0,0,0,0,0,0,,1,106
+175389,86191,174939,199688,"José Francisco Pizarro","Thursday, 9 April 2026, 1:53 PM","Thursday, 9 April 2026, 1:53 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402123/portafolio_pizarro_402123/-/tree/main/ejemplo_bootstrap?ref_type=heads,2,0,0,0,0,0,0,,1,156
+175390,86190,174938,199688,"José Francisco Pizarro","Thursday, 9 April 2026, 1:53 PM","Thursday, 9 April 2026, 1:53 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402123/portafolio_pizarro_402123/-/tree/main/modelo-cajas-vscode/modelo-cajas-vscode?ref_type=heads,2,0,0,0,0,0,0,,1,178
+175392,86191,174939,209186,"Efrain Emiliano Barahona","Thursday, 9 April 2026, 1:55 PM","Thursday, 9 April 2026, 1:55 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/409893_ejercicio_bootstrap,2,0,0,0,0,0,0,,1,112
+175396,86190,174938,209186,"Efrain Emiliano Barahona","Thursday, 9 April 2026, 2:23 PM","Thursday, 9 April 2026, 2:23 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409893/409893_ejercicio_modelo_cajas,2,0,0,0,0,0,0,,1,115
+175397,86191,174939,215673,"Valentín Ignacio Peralta Mamondi","Thursday, 9 April 2026, 2:27 PM","Thursday, 9 April 2026, 2:27 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408541/408541-semana-4.git,2,0,0,0,0,0,0,,1,105
+175398,86190,174938,215673,"Valentín Ignacio Peralta Mamondi","Thursday, 9 April 2026, 2:28 PM","Thursday, 9 April 2026, 2:28 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408541/408541-semana-4.git,2,0,0,0,0,0,0,,1,105
+175400,86190,174938,268272,"Matías Ezequiel Quilodrán","Thursday, 9 April 2026, 2:34 PM","Thursday, 9 April 2026, 2:34 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94113/ejercicio-semana3/-/blob/main/94113_ejercio_css_bootstrap.rar?ref_type=heads,2,0,0,0,0,0,0,,1,161
+175402,86385,175382,208514,"Nicolás Martín Terreno Cortés","Thursday, 9 April 2026, 2:47 PM","Thursday, 9 April 2026, 2:47 PM",1,ejercicio_paises_europa,"Corrijo a: 408602 - Bunge Ignacio, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409202/409202_ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y prolijo",2,0,0,0,0,0,0,,40,339
+175404,86385,175382,215711,"Ignacio Bunge","Thursday, 9 April 2026, 2:55 PM","Thursday, 9 April 2026, 2:55 PM",1,ejercicio_paises_europa,"Corrijo a: 411949 - Villafuerte Lucas, ejercicio ""ejercicio_paises_europa""
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408602/408602_ejercicios_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio muy bien hecho.",2,0,0,0,0,0,0,,40,341
+175406,86385,175382,212869,"Lucas Francisco Villafuerte","Thursday, 9 April 2026, 3:01 PM","Thursday, 9 April 2026, 3:01 PM",1,ejercicio_paises_europa,"Corrijo a: 409202 - Nicolas Terreno, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411949/ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: De manera ordenada cumple con lo solicitado",2,0,0,0,0,0,0,,43,346
+175407,86385,175382,207614,"María Virginia Cavallero","Thursday, 9 April 2026, 3:07 PM","Thursday, 9 April 2026, 3:08 PM",1,ejercicio_paises_europa,"Corrijo a: 413194 - Marietti Belén, ejercicio “ejercicio_paises_europa”
+- Link repositorio labsys de Marietti: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413194/413194-ejercicio-paises-europa.git
+
+funciona Parte 1: SÍ
+funciona Parte 2: SÍ
+funciona Parte 3: SÍ
+funciona Parte 4: SÍ
+funciona Parte 5: SÍ
+funciona Parte 6: SÍ
+Observaciones:
+- Está bien, cumple con todo. Carga datos, agrega, elimina, filtra y usa la API. También valida los datos. No tiene errores.
+
+Link repositorio labsys de Cavallero (el mio): https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/paises-europa.git",2,0,0,0,0,0,0,,70,579
+175408,86385,175382,214124,"Belen Micaela Marietti","Thursday, 9 April 2026, 3:08 PM","Thursday, 9 April 2026, 3:08 PM",1,ejercicio_paises_europa,"Corrijo a: 408492 - Cavallero Maria Virginia, ejercicio “ejercicio_paises_europa”
+link repositorio labsys de Cavallero: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408492/paises-europa.git
+
+link repositorio labsys de Marietti (yo): https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413194/413194-ejercicio-paises-europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y prolijo, cumple con lo mínimo que se pidió y también hizo la actividad bonus correctamente.",2,0,0,0,0,0,0,,64,569
+175410,86385,175382,209131,"Gastón Ezequiel Basso","Thursday, 9 April 2026, 3:18 PM","Thursday, 9 April 2026, 3:18 PM",1,ejercicio_paises_europa,"Corrijo a: Alvarez Rodrigo - 409819, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409819/409819-ejercicio-explorador-de-paises-de-europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Cumple todo lo pedido de forma correcta",2,0,0,0,0,0,0,,43,366
+175411,85585,173195,106345,"Thiago Alejo Decalli","Thursday, 9 April 2026, 3:21 PM","Thursday, 9 April 2026, 3:21 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/97196/utils-97196.git
+Profe a los proyectos los estuve subiendo a gitlab y no al foro, sale la fecha en que los hice",2,0,0,0,0,0,0,,21,175
+175412,85850,173938,106345,"Thiago Alejo Decalli","Thursday, 9 April 2026, 3:23 PM","Thursday, 9 April 2026, 3:23 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/97196/97196_ejercicio_html.git,2,0,0,0,0,0,0,,1,109
+175413,85850,173938,296467,"Joaquin Rodriguez Alvarez","Thursday, 9 April 2026, 3:28 PM","Thursday, 9 April 2026, 3:28 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410271/410271.git,2,0,0,0,0,0,0,,1,96
+175414,86385,175382,209113,"Rodrigo Facundo Alvarez","Thursday, 9 April 2026, 3:30 PM","Thursday, 9 April 2026, 3:30 PM",1,ejercicio_paises_europa,"Corrijo a: 409837- Basso Gaston, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409837/ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI",2,0,0,0,0,0,0,,34,292
+175417,85585,173195,201389,"Ezequiel Zarini","Thursday, 9 April 2026, 4:10 PM","Thursday, 9 April 2026, 4:10 PM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402123/utils-402123-403687-98520-400182,2,0,0,0,0,0,0,,1,118
+175422,86191,174939,208668,"Joaquin Larroca Carrara","Thursday, 9 April 2026, 5:12 PM","Thursday, 9 April 2026, 5:12 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409359/409359/-/blob/main/ejercicio_bootstrap.zip,2,0,0,0,0,0,0,,1,128
+175429,85850,173938,215620,"Lucas Daniel Rey","Thursday, 9 April 2026, 5:57 PM","Thursday, 9 April 2026, 5:57 PM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408443/html-408443.git 27/3",2,0,0,0,0,0,0,,2,105
+175431,86190,174938,209813,"Martina Yolanda Brizuela","Thursday, 9 April 2026, 6:03 PM","Thursday, 9 April 2026, 6:03 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410505/410505-ejercicio-cajas.git,2,0,0,0,0,0,0,,1,112
+175435,85850,173938,76836,"Nicolás Habib Domingo","Thursday, 9 April 2026, 6:13 PM","Thursday, 9 April 2026, 6:13 PM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/85307/ejercicio_html
+Una disculpa, hoy 9/4 cargo todos los archivos de las actividades realizadas en clase hasta el dia de la fecha, fue error mio ya que subia las respuestas en un repositorio erroneo y no sabia que habia que adjuntar los links en este foro",2,0,0,0,0,0,0,,45,292
+175436,85585,173195,76836,"Nicolás Habib Domingo","Thursday, 9 April 2026, 6:15 PM","Thursday, 9 April 2026, 6:15 PM",1,"Ejercicio de Git","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/utils-409476-85307-404568-414649-400153-89651-408678-92319-94825-409142
+
+Una disculpa, hoy 9/4 cargo todos los archivos de las actividades realizadas en clase hasta el dia de la fecha, fue error mio ya que no sabia que habia que adjuntar los links en este foro.",2,0,0,0,0,0,0,,37,310
+175437,85941,174246,76836,"Nicolás Habib Domingo","Thursday, 9 April 2026, 6:17 PM","Thursday, 9 April 2026, 6:17 PM",1,"Ejercicio CSS + Bootstrap","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/85307/ejerciciocss-bootstrap
+Una disculpa, hoy 9/4 cargo todos los archivos de las actividades realizadas en clase hasta el dia de la fecha, fue error mio ya que subia las respuestas en un repositorio erroneo y no sabia que habia que adjuntar los links en este foro.",2,0,0,0,0,0,0,,45,301
+175439,86190,174938,76836,"Nicolás Habib Domingo","Thursday, 9 April 2026, 6:19 PM","Thursday, 9 April 2026, 6:19 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/85307/ejerciciomodelocajas,2,0,0,0,0,0,0,,1,105
+175440,86191,174939,76836,"Nicolás Habib Domingo","Thursday, 9 April 2026, 6:20 PM","Thursday, 9 April 2026, 6:20 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/85307/ejerciciobootstrap,2,0,0,0,0,0,0,,1,103
+175441,86385,175382,198933,"Andrés Porto","Thursday, 9 April 2026, 6:21 PM","Thursday, 9 April 2026, 6:21 PM",1,ejercicio_paises_europa,"Corrijo a: 402077- Errigo Mayra, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402077/clases/-/tree/master/clasePrac/semana%204/exploradorPaises?ref_type=heads
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Muy buen trabajo",2,0,0,0,0,0,0,,38,366
+175443,86385,175382,199642,"Mayra Errigo","Thursday, 9 April 2026, 6:22 PM","Thursday, 9 April 2026, 6:22 PM",1,ejercicio_paises_europa,"Corrijo a: 401392- Porto, Andres, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/401392/ejerciciopaises.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Trabajo bien realizado, cumple con lo solicitado.",2,0,0,0,0,0,0,,42,342
+175463,86385,175382,215817,"Luciano Cipolla Delcantare","Thursday, 9 April 2026, 7:25 PM","Thursday, 9 April 2026, 7:25 PM",1,ejercicio_paises_europa,"Corrijo a: 408832- Facundo Ezequiel Fiorani, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/ejerciciopaiseseuropa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y correcto",2,0,0,0,0,0,0,,40,337
+175464,86385,175382,215681,"Santiago Peretti","Thursday, 9 April 2026, 7:31 PM","Thursday, 9 April 2026, 7:33 PM",1,ejercicio_paises_europa,"Corrijo a: 410304 - Bautista, Lautaro Gabriel, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410304/clase-09-04-paises-europeos.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: la pagina funciona correctamente.",2,0,0,0,0,0,0,,41,352
+175465,86385,175382,208668,"Joaquin Larroca Carrara","Thursday, 9 April 2026, 7:38 PM","Thursday, 9 April 2026, 7:38 PM",1,ejercicio_paises_europa,"Corrijo a: 409237- Andrawos Julian, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409237/ejeciociohtml/-/blob/main/exploradorPaises.zip
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio realizado de manera ordenada y muy correcta.",2,0,0,0,0,0,0,,43,375
+175466,86385,175382,208547,"Julian Andrawos","Thursday, 9 April 2026, 7:38 PM","Thursday, 9 April 2026, 7:38 PM",1,ejercicio_paises_europa,"Corrijo a: 409359 - Larroca Carrara Joaquin, ejercicio “ejercicio_paises_europa”
+link repositorio labsys de Larroca: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409359/409359/-/blob/main/ejercicio_paises_europa.zip
+
+link repositorio labsys de Andraows(yo): https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409237/ejeciociohtml/-/blob/main/exploradorPaises.zip
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio muy completo y funciona",2,0,0,0,0,0,0,,50,541
+175467,86385,175382,209603,"Lautaro Gabriel Bautista","Thursday, 9 April 2026, 7:41 PM","Thursday, 9 April 2026, 7:41 PM",1,ejercicio_paises_europa,"Corrijo a: 411150 - Lujan, Ramiro - Ejercicio “ejercicio_paises_europa”
+Link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411150/411150_ejercicios_paiseseuropa.git
+
+Funciona Paso 1: SI.
+Funciona Paso 2: SI.
+Funciona Paso 3 SI.
+Funciona Paso 4: SI.
+Funciona Paso 5: SI.
+Funciona Paso 6: SI.
+Observaciones: la página funciona correctamente.",2,0,0,0,0,0,0,,42,350
+175468,86385,175382,211975,"Ramiro Lujan","Thursday, 9 April 2026, 7:41 PM","Thursday, 9 April 2026, 7:42 PM",1,ejercicio_paises_europa,"Corrijo a: 408551 - Peretti Santiago, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408551/ejerciciopaises.git
+
+funciona Paso 1: [SI/NO]
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: La pagina funciona correctamente y puso los países en Español.",2,0,0,0,0,0,0,,46,360
+175474,86385,175382,208013,"Lautaro Meichtri","Thursday, 9 April 2026, 7:55 PM","Thursday, 9 April 2026, 7:55 PM",1,ejercicio_paises_europa,"Corrijo a: 413679 - Pedernera Juan Cruz, ejercicio “ejercicio_paises_europa”
+link repositorio: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413679/ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso 2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Funciona todo correctamente, ejercicio completo",2,0,0,0,0,0,0,,42,349
+175478,86191,174939,208013,"Lautaro Meichtri","Thursday, 9 April 2026, 8:09 PM","Thursday, 9 April 2026, 8:09 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408685/css-bootstrap-bloques.git,2,0,0,0,0,0,0,,1,111
+175479,86190,174938,208013,"Lautaro Meichtri","Thursday, 9 April 2026, 8:10 PM","Thursday, 9 April 2026, 8:10 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408685/css-bootstrap-bloques.git,2,0,0,0,0,0,0,,1,111
+175486,86385,175382,212836,"Geronimo Samuel Maragliano","Thursday, 9 April 2026, 8:23 PM","Thursday, 9 April 2026, 8:23 PM",1,ejercicio_paises_europa,"corrijo a: 415184-Castrillo Franco, ejercicio “ejercicio_paises_europa”
+
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415184/415184-trabajopaises/-/tree/master?ref_type=heads
+
+unciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y prolijo",2,0,0,0,0,0,0,,35,334
+175488,86385,175382,216651,"Franco Castrillo","Thursday, 9 April 2026, 8:28 PM","Thursday, 9 April 2026, 8:28 PM",1,ejercicio_paises_europa,"corrijo a: 411910-Maragliano Geronimo, ejercicio “ejercicio_paises_europa”
+
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/ejercicio_paises_europa
+
+Funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Todo funciona correctamente con una buena estructura y prolijidad.",2,0,0,0,0,0,0,,40,345
+175489,86191,174939,207909,"Matías Stupczuk","Thursday, 9 April 2026, 8:31 PM","Thursday, 9 April 2026, 8:31 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408581/cajas-bootstrap.git,2,0,0,0,0,0,0,,1,105
+175490,86190,174938,207909,"Matías Stupczuk","Thursday, 9 April 2026, 8:31 PM","Thursday, 9 April 2026, 8:31 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408581/cajas-bootstrap.git,2,0,0,0,0,0,0,,1,105
+175491,86385,175382,213437,"Tomás Romero Guiñazú","Thursday, 9 April 2026, 8:33 PM","Thursday, 9 April 2026, 8:33 PM",1,ejercicio_paises_europa,"Corrijo a: 410630 - David Ismael López Rodríguez, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410630/ejercicio_paises_europa
+mi link de repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412550/ejercicio-paises-europa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI",2,0,0,0,0,0,0,,43,437
+175493,86385,175382,209959,"David Ismael López Rodríguez","Thursday, 9 April 2026, 8:40 PM","Thursday, 9 April 2026, 8:40 PM",1,ejercicio_paises_europa,"corrijo a: 412550 - Romero Guiñazú Tomás, ejercicio “ejercicio_paises_europa”
+
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412550/ejercicio-paises-europa
+
+mi link de repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410630/ejercicio_paises_europa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Todo funciona correctamente, ejercicio completo.",2,0,0,0,0,0,0,,45,466
+175498,86385,175382,209842,"Mateo Machuca","Thursday, 9 April 2026, 9:15 PM","Thursday, 9 April 2026, 9:15 PM",1,ejercicio_paises_europa,"Corrijo a: 408808 - Cipolla Luciano, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408808/ejerciciopaiseseuropa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Incluye todas las funcionalidades y funcionando de manera correcta",2,0,0,0,0,0,0,,45,361
+175509,85850,173938,201389,"Ezequiel Zarini","Thursday, 9 April 2026, 9:23 PM","Thursday, 9 April 2026, 9:23 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403687/portafolio_403687_zarini_eze/-/tree/main/403687_ejercio_html?ref_type=heads,2,0,0,0,0,0,0,,1,161
+175516,85941,174246,201389,"Ezequiel Zarini","Thursday, 9 April 2026, 9:24 PM","Thursday, 9 April 2026, 9:24 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403687/portafolio_403687_zarini_eze/-/tree/main/403687_ejercio_css?ref_type=heads,2,0,0,0,0,0,0,,1,160
+175554,86385,175382,215837,"Facundo Ezequiel Fiorani","Thursday, 9 April 2026, 9:33 PM","Thursday, 9 April 2026, 9:36 PM",1,ejercicio_paises_europa,"Corrijo a: 410535- Mateo Machuca, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: 
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410535/explorador-paises-europa#
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y correcto
+ 
+Mi repositorio con mi ejercicio : https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408832/ejerciciopaiseseuropa/-/tree/main?ref_type=heads",2,0,0,0,0,0,0,,46,495
+175562,86385,175382,208782,"Ezequiel Purro","Thursday, 9 April 2026, 10:14 PM","Thursday, 9 April 2026, 10:15 PM",1,ejercicio_paises_europa,"Corrijo a: 408814 - Gamond Santiago, ejercicio ""ejercicio_paises_europa""
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408814/proyecto-paises.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+
+Observaciones: Ejercicio muy bien hecho.
+ 
+Link a mi repositorio: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/409476_ejercicio_paises_europa.git",2,0,0,0,0,0,0,,45,463
+175578,86190,174938,201389,"Ezequiel Zarini","Thursday, 9 April 2026, 10:59 PM","Thursday, 9 April 2026, 10:59 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403687/portafolio_403687_zarini_eze/-/tree/main/modelo-cajas-vscode?ref_type=heads,2,0,0,0,0,0,0,,1,161
+175580,86191,174939,201389,"Ezequiel Zarini","Thursday, 9 April 2026, 11:00 PM","Thursday, 9 April 2026, 11:00 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403687/portafolio_403687_zarini_eze/-/tree/main/ejemplo_bootstrap?ref_type=heads,2,0,0,0,0,0,0,,1,159
+175581,86385,175382,215821,"Santiago Mateo Gamond","Thursday, 9 April 2026, 11:00 PM","Thursday, 9 April 2026, 11:00 PM",1,ejercicio_paises_europa,"Corrigo a: 409476 - Purro ezequiel, ejercicio ""ejercicio_paises_europa"":
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409476/409476_ejercicio_paises_europa.git
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+
+Observaciones: Excelente redaccion del codigo, muy legible y facilmente entendible
+link a mi repositorio : https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408814/proyecto-paises",2,0,0,0,0,0,0,,48,473
+175623,86385,175382,207206,"Gino Bringas Piersigilli","Friday, 10 April 2026, 7:50 AM","Friday, 10 April 2026, 7:50 AM",1,ejercicio_paises_europa,"Corrigo a: 410630 - David Ismael López Rodriguez, ejercicio ""ejercicio_paises_europa""
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410630/ejercicio_paises_europa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: ejercicio verificado via consola.",2,0,0,0,0,0,0,,39,324
+175667,85585,173195,215735,"Francisco Berrini","Friday, 10 April 2026, 1:05 PM","Friday, 10 April 2026, 1:05 PM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408651/utils_408651_410721.git,2,0,0,0,0,0,0,,1,109
+175736,86190,174938,208712,"Francisco Bartolelli","Friday, 10 April 2026, 5:29 PM","Friday, 10 April 2026, 5:29 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409404/semana4bootstrap.git,2,0,0,0,0,0,0,,1,106
+175737,86191,174939,198509,"Lourdes jazmin Alvarez mendoza","Friday, 10 April 2026, 5:30 PM","Friday, 10 April 2026, 5:30 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400979/ejercicio_bootstrap.git,2,0,0,0,0,0,0,,1,109
+175738,85850,173938,204190,"Lucas Marcelo Mesconi","Friday, 10 April 2026, 5:31 PM","Friday, 10 April 2026, 5:36 PM",1,"Ejercicio HTML","https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/406485/app2-html.git
+",2,0,0,0,0,0,0,,1,99
+175739,86191,174939,208712,"Francisco Bartolelli","Friday, 10 April 2026, 5:32 PM","Friday, 10 April 2026, 5:32 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409404/ejercicio-semana-2.git,2,0,0,0,0,0,0,,1,108
+175741,86191,174939,204190,"Lucas Marcelo Mesconi","Friday, 10 April 2026, 5:37 PM","Friday, 10 April 2026, 5:37 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/406485/406485_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+175742,85941,174246,204190,"Lucas Marcelo Mesconi","Friday, 10 April 2026, 5:37 PM","Friday, 10 April 2026, 5:37 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/406485/406485_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+175769,86385,175382,198442,"Lucas Ezequiel Sander","Friday, 10 April 2026, 6:28 PM","Friday, 10 April 2026, 6:28 PM",1,ejercicio_paises_europa,"Corrijo a: 400979 - Lourdes Mendoza, ejercicio_paises_europa
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400908/400908_ejerciciopaiseseuropa_clase6.gi
+unciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio bien hecho",2,0,0,0,0,0,0,,35,304
+175780,86385,175382,208645,"Justo Cortes Olmedo","Friday, 10 April 2026, 6:45 PM","Friday, 10 April 2026, 6:45 PM",1,ejercicio_paises_europa,"Corrijo a: 407680 - Rodriguez Dieguez, Darián ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/407680/407680_paises_europa
+
+funciona Paso 1: [SI]
+funciona Paso2: [SI]
+funciona Paso 3 [SI]
+funciona Paso 4: [SI]
+funciona Paso 5: [SI]
+funciona Paso 6: [SI]
+Observaciones: Ejercicio completo, cumple con todos los puntos solicitados y además la página tiene un diseño mas desarrollado que el recomendado.",2,0,0,0,0,0,0,,57,434
+175808,86385,175382,208787,"María Lourdes Gor","Friday, 10 April 2026, 7:40 PM","Friday, 10 April 2026, 7:40 PM",1,ejercicio_paises_europa,"Corrijo a: 410766- Chiesa Ramiro, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410766/410766_ejercicios_paises_europa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI",2,0,0,0,0,0,0,,34,297
+175818,86190,174938,215661,"Facundo Martin Rey Laje","Friday, 10 April 2026, 8:10 PM","Friday, 10 April 2026, 8:10 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408519/408519_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+175841,86385,175382,210111,"Ramiro Chiesa Gonzalez","Friday, 10 April 2026, 9:24 PM","Friday, 10 April 2026, 9:24 PM",1,ejercicio_paises_europa,"Corrijo a: 409481- Gor Lourdes, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409481/semana4.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI",2,0,0,0,0,0,0,,34,275
+175871,86385,175382,215561,"Lucas Alejandro González Tempel","Friday, 10 April 2026, 11:09 PM","Friday, 10 April 2026, 11:09 PM",1,ejercicio_paises_europa,"Corrijo a: 413077 - Felice Luciano, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413077/ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Visualmente muy cómodo de leer, bien modulado y con un formato muy prolijo. Un desarrollador con mucho potencial.",2,0,0,0,0,0,0,,54,404
+175909,85941,174246,259458,"Sofi Sarasola","Saturday, 11 April 2026, 1:30 AM","Saturday, 11 April 2026, 1:30 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/aplicacion-css-y-bootstrap#,2,0,0,0,0,0,0,,1,106
+175988,86385,175382,215673,"Valentín Ignacio Peralta Mamondi","Saturday, 11 April 2026, 2:54 PM","Saturday, 11 April 2026, 2:54 PM",1,ejercicio_paises_europa,"Corrijo a: 408540 - Martínez Lucía, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408540/408540_exploradorpaises.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y bien realizado. Tiene CSS e íconos adicionales.",2,0,0,0,0,0,0,,46,367
+176023,86385,175382,208515,"Nicolas Kiriachek","Saturday, 11 April 2026, 4:15 PM","Saturday, 11 April 2026, 4:15 PM",1,ejercicio_paises_europa,"Corrijo a: 402189 - Altamirano Máximo, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402189/402189_ejercicio_paises_europa.git
+
+funciona Paso 1: si
+funciona Paso2: si
+funciona Paso 3: si
+funciona Paso 4: si
+funciona Paso 5: si
+funciona Paso 6: si
+Observaciones: Realizo con exito lo solicitado para el trabajo",2,0,0,0,0,0,0,,44,359
+176057,86191,174939,216635,"Genaro Assales Risso","Saturday, 11 April 2026, 6:49 PM","Saturday, 11 April 2026, 6:49 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415006/clase-4-bootstrap.git,2,0,0,0,0,0,0,,1,107
+176059,86190,174938,216635,"Genaro Assales Risso","Saturday, 11 April 2026, 7:02 PM","Saturday, 11 April 2026, 7:02 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415006/clase-4-cajas.git,2,0,0,0,0,0,0,,1,103
+176070,86385,175382,215794,"Marcelo David Farias","Saturday, 11 April 2026, 8:01 PM","Saturday, 11 April 2026, 8:01 PM",1,ejercicio_paises_europa,"Corrijo a: 85307 - Domingo Nicolás Habib, ejercicio ""ejercicio_paises_europa""
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/85307/ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y sin errores, buen uso de CSS",2,0,0,0,0,0,0,,46,353
+176071,86385,175382,76836,"Nicolás Habib Domingo","Saturday, 11 April 2026, 8:08 PM","Saturday, 11 April 2026, 8:08 PM",1,ejercicio_paises_europa,"Corrijo a: 408763 - Marcelo David Farias , ejercicio ""ejercicio_paises_europa""
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408763/exploradorpaises.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: El ejercicio cumplimenta correctamente con los requisitos solicitados con el plus de la actividad adicional de filtro de rango de poblacion",2,0,0,0,0,0,0,,59,425
+176090,86190,174938,296501,"Simón Ernesto Lozada Navarro","Saturday, 11 April 2026, 9:14 PM","Saturday, 11 April 2026, 9:14 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410539/modelo_de_caja,2,0,0,0,0,0,0,,1,100
+176114,85941,174246,208894,"Diego Tapia Flores","Sunday, 12 April 2026, 1:50 AM","Sunday, 12 April 2026, 1:50 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409595/409595_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+176115,85941,174246,209331,"Daniela Roberta Mercado Gonzales","Sunday, 12 April 2026, 3:08 AM","Sunday, 12 April 2026, 3:08 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/html-ejercicio.git,2,0,0,0,0,0,0,,1,104
+176118,85941,174246,209666,"Mateo Millán","Sunday, 12 April 2026, 9:18 AM","Sunday, 12 April 2026, 9:18 AM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410360/410360_ejercicio_bootstrap,2,0,0,0,0,0,0,,1,112
+176119,86191,174939,209666,"Mateo Millán","Sunday, 12 April 2026, 9:21 AM","Sunday, 12 April 2026, 9:21 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410360/410360_ejercicio_bootstrap,2,0,0,0,0,0,0,,1,112
+176120,85850,173938,209666,"Mateo Millán","Sunday, 12 April 2026, 9:21 AM","Sunday, 12 April 2026, 9:21 AM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410360/410360_ejercicio_html,2,0,0,0,0,0,0,,1,107
+176121,85585,173195,209666,"Mateo Millán","Sunday, 12 April 2026, 9:22 AM","Sunday, 12 April 2026, 9:22 AM",1,"Ejercicio de Git",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/utils1-408683-400737-404642-408763-410360-411150-411683-410260-408427-410391,2,0,0,0,0,0,0,,1,162
+176133,86190,174938,216047,"Joaquin Lario Garcia","Sunday, 12 April 2026, 11:20 AM","Sunday, 12 April 2026, 11:20 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410343/clase_martes_07_04.git,2,0,0,0,0,0,0,,1,108
+176145,86385,175382,295892,"Máximo Altamirano Olmos","Sunday, 12 April 2026, 1:47 PM","Sunday, 12 April 2026, 1:47 PM",1,ejercicio_paises_europa,"Corrijo a: 409203 - Nicolas Kiriachek, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409203/ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso 2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Muy completo, cumple con las consignas y funciona correctamente",2,0,0,0,0,0,0,,46,367
+176148,86385,175382,213994,"Luciano Felice","Sunday, 12 April 2026, 2:07 PM","Sunday, 12 April 2026, 2:07 PM",1,ejercicio_paises_europa,"Corrijo a: 408335 - Lucas Alejandro González Tempel, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408335/408335_ejerciciopaiseseuropa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Resueltas con pulcritud y notable diligencia las consignas encomendadas, es menester destacar el esmerado y refinado trabajo plasmado en el archivo CSS, el cual confiere una prestancia visual digna de elogio a una ya de por sí ordenada y bien dispuesta estructura en HTML. No sólo se da cabal cumplimiento a lo solicitado, sino que asimismo se advierte un loable empeño y una fervorosa inclinación hacia las nobles artes del desarrollo, tanto en el ámbito del front-end como del back-end.
+
+Queda, pues, el ejercicio debidamente corregido, y no está de más ponderar el promisorio porvenir que, sin duda, aguarda al señor Lucas Alejandro González Tempel en su devenir como ingeniero.
+
+Sin otro particular, y con la mayor consideración,
+
+Felice Luciano.",2,0,0,0,0,0,0,,158,956
+176153,86190,174938,219590,"Melgarejo Camila Ariadna Melgarejo","Sunday, 12 April 2026, 2:28 PM","Sunday, 12 April 2026, 2:28 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/94825/94825_ejercicio_cajas,2,0,0,0,0,0,0,,1,106
+176160,86190,174938,208894,"Diego Tapia Flores","Sunday, 12 April 2026, 3:21 PM","Sunday, 12 April 2026, 3:21 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409595/409595_ejercicio_modelo_cajas.git,2,0,0,0,0,0,0,,1,119
+176164,86385,175382,215643,"Marco Saggiorato","Sunday, 12 April 2026, 3:38 PM","Sunday, 12 April 2026, 3:38 PM",1,ejercicio_paises_europa,"Corrijo a: 415006 - Assales Risso Genaro, ejercicio ""ejercicio_paises_europa""
+Link repositorio labsys Assales Risso Genaro: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415006/exploradorpaises
+
+funciona Paso 1: [SI]
+funciona Paso2: [SI]
+funciona Paso 3 [SI]
+funciona Paso 4: [SI]
+funciona Paso 5: [SI]
+funciona Paso 6: [SI]
+Observaciones: Ninguna
+
+Link repositorio labsys Saggiorato Marco: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408482/408482_ejercicio_paises_europa",2,0,0,0,0,0,0,,47,492
+176168,86385,175382,208544,"Joaquin Andres Cagliero Palma","Sunday, 12 April 2026, 4:09 PM","Sunday, 12 April 2026, 4:09 PM",1,ejercicio_paises_europa,"Corrijo a: 414649 - Christopher Leyton, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/414649/paises_europa_414649.git
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Todo el trabajo funciona correctamente, cumpliendo con lo solicitado y al momento de ejecutar la consulta a la API brinda los datos de forma correcta. No tiene ningún error",2,0,0,0,0,0,0,,65,453
+176169,86385,175382,216530,"Christopher Leyton","Sunday, 12 April 2026, 4:12 PM","Sunday, 12 April 2026, 4:12 PM",1,ejercicio_paises_europa,"Corrijo a: 409233 - Cagliero Joaquín, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409233/paises_europa_409233.git
+funciona Paso 1: Si
+funciona Paso2: Si
+funciona Paso 3 Si
+funciona Paso 4: Si
+funciona Paso 5: Si
+funciona Paso 6: Si
+Observaciones: Realmente un trabajo esplendido",2,0,0,0,0,0,0,,40,335
+176176,86190,174938,215023,"Constanza Aguirre","Sunday, 12 April 2026, 5:09 PM","Sunday, 12 April 2026, 5:09 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409673/409673-ejercicios,2,0,0,0,0,0,0,,1,103
+176179,86191,174939,215023,"Constanza Aguirre","Sunday, 12 April 2026, 5:13 PM","Sunday, 12 April 2026, 5:13 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409673/409673-ejercicios,2,0,0,0,0,0,0,,1,103
+176221,86385,175382,216635,"Genaro Assales Risso","Sunday, 12 April 2026, 6:28 PM","Sunday, 12 April 2026, 6:28 PM",1,ejercicio_paises_europa,"Corrijo a: 408482 - Saggiorato Marco, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408482/408482_ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo, cumple con la consigna
+
+Link repositorio labsys Assales Risso Genaro: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/415006/exploradorpaises.git",2,0,0,0,0,0,0,,49,500
+176258,86385,175382,213296,"Julieta Ayelen Fuentes","Sunday, 12 April 2026, 7:35 PM","Sunday, 12 April 2026, 7:35 PM",1,ejercicio_paises_europa,"Corrijo a: 409508 - Porras Montserrat, ejercicio “ejercicio_paises_europa”
+
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409508/paises.git
+
+funciona Paso 1: SI
+
+funciona Paso2: SI
+
+funciona Paso 3 SI
+
+funciona Paso 4: SI
+
+funciona Paso 5: SI
+
+funciona Paso 6: SI
+
+Observaciones: Ejercicio completo y cumple con lo solicitado 
+",2,0,0,0,0,0,0,,43,334
+176262,86385,175382,208813,"Montserrat Aidalé Rosalia Porras Salazar","Sunday, 12 April 2026, 7:46 PM","Sunday, 12 April 2026, 7:47 PM",1,ejercicio_paises_europa,"Corrijo a: 412403 - Fuentes Julieta, ejercicio “países de Europa” 
+
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/412403/412403-exploradorpaises.git
+
+funciona Paso 1: SI
+
+funciona Paso2: SI
+
+funciona Paso 3 SI
+
+funciona Paso 4: SI
+
+funciona Paso 5: SI
+
+funciona Paso 6: SI
+
+Observaciones: cumple con lo solicitado, ejercicio completo y prolijo
+",2,0,0,0,0,0,0,,43,326
+176266,86385,175382,215749,"Maria Victoria Gobbi","Sunday, 12 April 2026, 8:36 PM","Sunday, 12 April 2026, 8:36 PM",1,ejercicio_paises_europa,"Corrijo a: 408403 - Morales Sofía Nahir, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408678/408678_ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: todo funciona correctamente",2,0,0,0,0,0,0,,40,345
+176278,86190,174938,215749,"Maria Victoria Gobbi","Sunday, 12 April 2026, 9:22 PM","Sunday, 12 April 2026, 9:22 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408678/408678_ejercicio_modelodecajas_bootstrap.git,2,0,0,0,0,0,0,,1,130
+176279,86191,174939,215749,"Maria Victoria Gobbi","Sunday, 12 April 2026, 9:23 PM","Sunday, 12 April 2026, 9:23 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408678/408678_ejercicio_modelodecajas_bootstrap.git,2,0,0,0,0,0,0,,1,130
+176282,86385,175382,212195,"Joaquin Oliva","Sunday, 12 April 2026, 9:32 PM","Sunday, 12 April 2026, 9:32 PM",1,ejercicio_paises_europa,"Corrijo a: 403106 - Casas Ángel Lautaro, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411352/ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y con una interfaz gráfica interesante.",2,0,0,0,0,0,0,,45,363
+176285,86385,175382,216037,"Mateo Montovani","Sunday, 12 April 2026, 9:59 PM","Sunday, 12 April 2026, 9:59 PM",1,ejercicio_paises_europa,"Corrijo a: 410903 - Castro Mateo, ejercicio “ejercicio_paises_europa”
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410903/js-paiseseuropa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y prolijo",2,0,0,0,0,0,0,,37,297
+176286,85850,173938,213994,"Luciano Felice","Sunday, 12 April 2026, 10:02 PM","Sunday, 12 April 2026, 10:02 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413077/ejercicio-clase-2-html.git,2,0,0,0,0,0,0,,1,112
+176287,86191,174939,213994,"Luciano Felice","Sunday, 12 April 2026, 10:05 PM","Sunday, 12 April 2026, 10:05 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413077/clase-07-04-2026-boostrap.git,2,0,0,0,0,0,0,,1,115
+176288,86191,174939,215608,"Sofia Maricel Olivieri Rojas","Sunday, 12 April 2026, 10:08 PM","Sunday, 12 April 2026, 10:08 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408420/408420_ejercicio_bootstrap.git,2,0,0,0,0,0,0,,1,116
+176289,86190,174938,64570,"Quiroga Tadeo Fabian Quiroga","Sunday, 12 April 2026, 10:19 PM","Sunday, 12 April 2026, 10:19 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/81669/modelo-cajas.git,2,0,0,0,0,0,0,,1,101
+176290,86191,174939,209331,"Daniela Roberta Mercado Gonzales","Sunday, 12 April 2026, 10:19 PM","Sunday, 12 April 2026, 10:19 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/bootstrap.git,2,0,0,0,0,0,0,,1,99
+176293,86385,175382,209186,"Efrain Emiliano Barahona","Sunday, 12 April 2026, 10:32 PM","Sunday, 12 April 2026, 10:32 PM",1,ejercicio_paises_europa,"Corrijo a: 408541- Peralta Mamondi Valentin Ignacio, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408541/408541-semana-4.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo",2,0,0,0,0,0,0,,39,333
+176297,86385,175382,215023,"Constanza Aguirre","Sunday, 12 April 2026, 11:38 PM","Sunday, 12 April 2026, 11:38 PM",1,ejercicio_paises_europa,"Corrijo a: 409673 - Aguirre Constanza, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409673/409673-ejercicio-paises-europa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo, cumple con lo solicitado.",2,0,0,0,0,0,0,,42,354
+176298,86385,175382,210042,"Magali Agostina Vivas Garay","Sunday, 12 April 2026, 11:50 PM","Sunday, 12 April 2026, 11:57 PM",1,ejercicio_paises_europa,"Corrijo a: 408414 - Nagel Denise, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408414/paises-api/-/blob/3aef1e689fed7a33bd7c7c4f5eca060c36a752f2/exploradorPaises.zip
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Cumple con lo solicitado y de manera ordenada sin errores
+
+Link a mi repositorio: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410714/410714-ejercicio-paiseseuropa.git",2,0,0,0,0,0,0,,51,544
+176300,86385,175382,215606,"Denise Nagel","Sunday, 12 April 2026, 11:56 PM","Sunday, 12 April 2026, 11:56 PM",1,ejercicio_paises_europa,"Corrijo a Magali Vivas: 410714 , ejercicio “ejercicio_paises_europa”
+
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410714/410714-ejercicio-paiseseuropa.git
+
+funciona Paso 1: SI
+
+funciona Paso2: SI
+
+funciona Paso 3 SI
+
+funciona Paso 4: SI
+
+funciona Paso 5: SI
+
+funciona Paso 6: SI
+
+Observaciones: Ejercicio completo, cumple con todo lo solicitado
+",2,0,0,0,0,0,0,,43,355
+176302,86191,174939,105873,"Lautaro Santillan","Monday, 13 April 2026, 12:24 AM","Monday, 13 April 2026, 12:24 AM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96794/96794_ejercicio_boostrap.git,2,0,0,0,0,0,0,,1,113
+176303,86190,174938,105873,"Lautaro Santillan","Monday, 13 April 2026, 12:40 AM","Monday, 13 April 2026, 12:40 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96794/96794_ejercicio_modelo_de_caja.git,2,0,0,0,0,0,0,,1,119
+176308,86190,174938,209331,"Daniela Roberta Mercado Gonzales","Monday, 13 April 2026, 1:54 AM","Monday, 13 April 2026, 1:54 AM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/modelo-cajas.git,2,0,0,0,0,0,0,,1,102
+176311,86385,175382,210854,"Mateo Castro Rolando","Monday, 13 April 2026, 6:25 AM","Monday, 13 April 2026, 6:25 AM",1,ejercicio_paises_europa,"Corrijo a: 409592 - Montovani Mateo, ejercicio “ejercicio-paises-europa”
+
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409592/ejercicio-paises-europa
+
+funciona Paso 1: SI
+
+funciona Paso2: SI
+
+funciona Paso 3 SI
+
+funciona Paso 4: SI
+
+funciona Paso 5: SI
+
+funciona Paso 6: SI
+
+Observaciones: Ejercicio completo y prolijo, buena GUI
+",2,0,0,0,0,0,0,,39,317
+176314,86385,175382,209813,"Martina Yolanda Brizuela","Monday, 13 April 2026, 8:04 AM","Monday, 13 April 2026, 8:04 AM",1,ejercicio_paises_europa,"_Corrijo a:  409673 - Aguirre, Constanza,  ejercicio “ejercicio_paises_europa”_
+
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409673/409673-ejercicio-paises-europa
+
+	* _funciona Paso 1:  SI_
+	* _funciona Paso2: SI_
+	* _funciona Paso 3: SI_
+	* _funciona Paso 4: SI_
+	* _funciona Paso 5: SI_
+	* _funciona Paso 6: SI_
+	* _Observaciones: funciona bien._
+
+",2,0,0,0,0,0,0,,35,310
+176315,86385,175382,215023,"Constanza Aguirre","Monday, 13 April 2026, 8:05 AM","Monday, 13 April 2026, 8:06 AM",1,ejercicio_paises_europa,"Corrijo a: 410505 - Brizuela Martina, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410505/410505-ejercicio-paises-europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo, muy buen trabajo ",2,0,0,0,0,0,0,,41,350
+176337,86385,175382,105873,"Lautaro Santillan","Monday, 13 April 2026, 11:54 AM","Monday, 13 April 2026, 11:54 AM",1,ejercicio_paises_europa,"Corrijo a: 400615 - Human Luciana, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400615/explorador-paises.git
+
+funciona Paso 1: SI
+funciona Paso 2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo, funciona todo correctamente",2,0,0,0,0,0,0,,42,345
+176339,86385,175382,198167,"Luciana Human","Monday, 13 April 2026, 12:14 PM","Monday, 13 April 2026, 12:14 PM",1,ejercicio_paises_europa,"Corrigo a: 96794 - Santillan Lautaro. Ejercicio: ""ejercicio_paises_europa""
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/96794/96794_ejercicio_paises_europa.git
+- Funciona paso 1: si
+- Funciona paso 2: si
+- Funciona paso 3: si
+- Funciona paso 4: si
+- Funciona paso 5: si
+- Funciona paso 6: si
+Observaciones: realizado con mucha prolijidad y buena presentación. Se observa una buena aplicacion de los conocimientos.",2,0,0,0,0,0,0,,58,415
+176346,85941,174246,208426,"Tomas Diaz","Monday, 13 April 2026, 12:55 PM","Monday, 13 April 2026, 12:55 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409114/ejercicio-css-bootstrap.git,2,0,0,0,0,0,0,,1,113
+176358,86385,175382,208426,"Tomas Diaz","Monday, 13 April 2026, 1:18 PM","Monday, 13 April 2026, 1:25 PM",1,ejercicio_paises_europa,"https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409114/paises-europa.git
+Corrigo a: 409108 - Leiva Facundo, ejercicio ""ejercicio_paises_europa""
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Funciona correctamente",2,0,0,0,0,0,0,,35,296
+176435,85941,174246,201418,"Oriana Karen Velásquez Portal","Monday, 13 April 2026, 3:37 PM","Monday, 13 April 2026, 3:38 PM",1,"Ejercicio CSS + Bootstrap","Ejercicio css + bootstrap
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403717/403717_ejercicio_css",2,0,0,0,0,0,0,,5,128
+176457,86385,175382,200744,"Angel Lautaro Casas","Monday, 13 April 2026, 4:53 PM","Monday, 13 April 2026, 4:53 PM",1,ejercicio_paises_europa,"Corrijo a: 411352 - Oliva Joaquin, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403106/exploradorpaises.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo, cumple con lo solicitado.",2,0,0,0,0,0,0,,42,341
+176461,86385,175382,208011,"Lucía Isabel Tresca","Monday, 13 April 2026, 5:15 PM","Monday, 13 April 2026, 5:15 PM",1,ejercicio_paises_europa,"Corrijo a: 408567 - Konig Soria Marlén Sofía, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408567/408567-explorarpaises.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: cumple los requisitos pedidos, haciéndolo de una forma ordenada.",2,0,0,0,0,0,0,,47,371
+176467,86385,175382,215691,"Marlén Sofía König Soria","Monday, 13 April 2026, 5:31 PM","Monday, 13 April 2026, 5:31 PM",1,ejercicio_paises_europa,"Corrijo a: 408519 - Facundo Rey Laje, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408519/408519_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Cumple todo lo pedido en forma correcta",2,0,0,0,0,0,0,,44,339
+176471,86385,175382,215661,"Facundo Martin Rey Laje","Monday, 13 April 2026, 5:49 PM","Monday, 13 April 2026, 5:49 PM",1,ejercicio_paises_europa,"Corrijo a: 408683-Tresca Lucia Isabel, ejercicio “ejercicio_paises_europa”
+link repositorio labsys:https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408683/paises-europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: La propuesta cumple con lo solicitado. Carga datos, agrega, elimina, filtra y utiliza la API. También valida los datos sin ningún tipo de error.",2,0,0,0,0,0,0,,58,423
+176478,86385,175382,215672,"Lucía Martínez","Monday, 13 April 2026, 6:13 PM","Monday, 13 April 2026, 6:13 PM",1,ejercicio_paises_europa,"Corrijo a: 408347- Palacios Sesto, Milagros, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408347/408347_ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones:
+Excelente trabajo. El botón para cargar los países funciona perfectamente y la información se muestra clara y ordenada en la tabla. La consulta a la API está bien implementada. Además, se utiliza Bootstrap y CSS de forma correcta, respetando la estructura pedida en el documento. Muy buen trabajo.",2,0,0,0,0,0,0,,84,574
+176479,85941,174246,215620,"Lucas Daniel Rey","Monday, 13 April 2026, 6:22 PM","Monday, 13 April 2026, 6:22 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408443/408443_ejercicio_css-bootstrap.git,2,0,0,0,0,0,0,,1,120
+176482,86385,175382,198327,"Ambar Jazmin Rosales","Monday, 13 April 2026, 6:38 PM","Monday, 13 April 2026, 6:38 PM",1,ejercicio_paises_europa,"Corrijo a: 410043 Mercado Gonzales Daniela Roberta “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410043/exploradorpaises.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y correcto.",2,0,0,0,0,0,0,,40,334
+176484,86385,175382,209269,"Marcos Nicolás Maraboli","Monday, 13 April 2026, 6:42 PM","Monday, 13 April 2026, 6:42 PM",1,ejercicio_paises_europa,"Corrijo a: 409688 - Caldo Juan Pedro, ejercicio ""ejercicio_paises_europa""
+link: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409688/ejercicio_paises_europa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio correcto en todo aspecto, y sumando un estilo. Toda la información se muestra clara y ordenada. Cumple con todos los requisitos.",2,0,0,0,0,0,0,,57,406
+176485,85585,173195,209117,"Luis Andrés Robledo Soldá","Monday, 13 April 2026, 6:42 PM","Monday, 13 April 2026, 6:42 PM",1,"Ejercicio de Git","participe en la sala 4: URL: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/411910/utils-411910-94455-403717-414215-410777-408359-401886-400113-409823-413194.git",2,0,0,0,0,0,0,,7,187
+176486,86385,175382,216041,"Juan pedro Caldo","Monday, 13 April 2026, 6:43 PM","Monday, 13 April 2026, 6:43 PM",1,ejercicio_paises_europa,"Corrijo a: 409979- Maraboli Nicolás, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409979/exploradorpaises_409979.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio prolijo , fácil de entender y agrego un estilo",2,0,0,0,0,0,0,,45,357
+176487,85850,173938,209117,"Luis Andrés Robledo Soldá","Monday, 13 April 2026, 6:44 PM","Monday, 13 April 2026, 6:44 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409823/clase2.git,2,0,0,0,0,0,0,,1,96
+176488,85941,174246,209117,"Luis Andrés Robledo Soldá","Monday, 13 April 2026, 6:45 PM","Monday, 13 April 2026, 6:45 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409823/css-aplicado-a-html-bootstrap.git,2,0,0,0,0,0,0,,1,119
+176489,86385,175382,215620,"Lucas Daniel Rey","Monday, 13 April 2026, 6:47 PM","Monday, 13 April 2026, 6:47 PM",1,ejercicio_paises_europa,"Corrijo a: 409823- Robledo Luis Andres, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409823/exploradorpaises.git
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: funciona correctamente",2,0,0,0,0,0,0,,38,326
+176490,86385,175382,209117,"Luis Andrés Robledo Soldá","Monday, 13 April 2026, 6:48 PM","Monday, 13 April 2026, 6:48 PM",1,ejercicio_paises_europa,"Corrijo a: 408443- Rey Lucas, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408443/408443_ejercicio_paises.git
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: funciona correctamente",2,0,0,0,0,0,0,,37,324
+176491,86191,174939,209117,"Luis Andrés Robledo Soldá","Monday, 13 April 2026, 7:01 PM","Monday, 13 April 2026, 7:01 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409823/bootstrap.git,2,0,0,0,0,0,0,,1,99
+176492,86385,175382,198284,"Joel Ibañez Cabral","Monday, 13 April 2026, 7:05 PM","Monday, 13 April 2026, 7:05 PM",1,ejercicio_paises_europa,"Corrijo a: 408838 - Dongiovanni Leonel, ejercicio ""ejercicio_paises_europa""
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408838/actividad-9-4-26
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Trabajo prolijo y bien logrado.",2,0,0,0,0,0,0,,41,329
+176496,86385,175382,215793,"Alejo Galvan","Monday, 13 April 2026, 7:15 PM","Monday, 13 April 2026, 7:15 PM",1,ejercicio_paises_europa,"Corrijo a: 409515 - Canova Federico, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409515/explorador-de-paises-europa_409515
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Realizo exitosamente el ejercicio propuesto completando todos los pasos",2,0,0,0,0,0,0,,45,379
+176500,86385,175382,208820,"Federico Emiliano Canova","Monday, 13 April 2026, 7:26 PM","Monday, 13 April 2026, 7:26 PM",1,ejercicio_paises_europa,"Corrijo a: 408762 - Galvan Alejo, ejercicio “ejercicio_paises_europa”
+link repositorio https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408762/ejercicio_paises
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Realizo exitosamente el ejercicio propuesto completando todos los pasos",2,0,0,0,0,0,0,,44,351
+176509,86191,174939,215965,"Uriel Agustín Prevotel Sole","Monday, 13 April 2026, 8:15 PM","Monday, 13 April 2026, 8:15 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409036/ejercicio-html.git,2,0,0,0,0,0,0,,1,104
+176517,86385,175382,215600,"Sofía Morales","Monday, 13 April 2026, 8:30 PM","Monday, 13 April 2026, 8:30 PM",1,ejercicio_paises_europa,"Corrijo a: 408678 - Gobbi María Victoria, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408403/408403_ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo, ejecuta todo de forma correcta.",2,0,0,0,0,0,0,,44,366
+176521,86385,175382,215840,"Leonel Dongovanni Acevedo","Monday, 13 April 2026, 8:47 PM","Monday, 13 April 2026, 8:47 PM",1,ejercicio_paises_europa,"Corrijo a: 400737 - Joel Habib Ibañes Cabral, ejercicio “ejercicio_paises_europa”
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400737/400737_paises_europa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo, ejecuta todo de forma correcta.",2,0,0,0,0,0,0,,42,333
+176523,86190,174938,201418,"Oriana Karen Velásquez Portal","Monday, 13 April 2026, 8:51 PM","Monday, 13 April 2026, 8:51 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403717/403717_modelo_de_caja,2,0,0,0,0,0,0,,1,107
+176524,86385,175382,209331,"Daniela Roberta Mercado Gonzales","Monday, 13 April 2026, 9:11 PM","Monday, 13 April 2026, 9:11 PM",1,ejercicio_paises_europa,"Corrijo a: 400786- Ambar Jazmin Rosales , ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/400786/400786-exploradorpaises.git
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ambar creo su propio css, personalizando la interfaz del explorador de paises, con todas las opciones funcionando y cumpliendo las consignas.",2,0,0,0,0,0,0,,58,434
+176527,86191,174939,199670,"Julián Eduardo Cavagnaro","Monday, 13 April 2026, 9:26 PM","Monday, 13 April 2026, 9:26 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402105/402105_ejemplo_bootstrap,2,0,0,0,0,0,0,,1,110
+176528,86190,174938,199670,"Julián Eduardo Cavagnaro","Monday, 13 April 2026, 9:29 PM","Monday, 13 April 2026, 9:29 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/402105/402105_modelo_cajas,2,0,0,0,0,0,0,,1,105
+176534,86190,174938,204190,"Lucas Marcelo Mesconi","Monday, 13 April 2026, 9:47 PM","Monday, 13 April 2026, 9:47 PM",1,"Ejercicio Modelo de Caja",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/406485/modelo-cajas.git,2,0,0,0,0,0,0,,1,102
+176539,86191,174939,201418,"Oriana Karen Velásquez Portal","Monday, 13 April 2026, 10:00 PM","Monday, 13 April 2026, 10:00 PM",1,"Ejercicio Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/403717/403717_ejercicio_bootstrap,2,0,0,0,0,0,0,,1,112
+176540,86385,175382,214702,"Juan Cruz Pedernera","Monday, 13 April 2026, 10:01 PM","Monday, 13 April 2026, 10:01 PM",1,ejercicio_paises_europa,"Corrijo a: 410343 - Lario Joaquin, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/410343/410343_ejercicio_paises_europa.git
+
+funciona Paso 1: SI
+funciona Paso 2: SI
+funciona Paso 3: SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo, sin nada que corregir.",2,0,0,0,0,0,0,,43,352
+176542,86385,175382,296501,"Simón Ernesto Lozada Navarro","Monday, 13 April 2026, 10:07 PM","Monday, 13 April 2026, 10:07 PM",1,ejercicio_paises_europa,"Corrijo a: 409595 - Diego, Tapia “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/409595/409595_ejercicio_paises_europa
+
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: Ejercicio completo y prolijo, incluye algunas funciones extra",2,0,0,0,0,0,0,,43,353
+176544,85585,173195,214702,"Juan Cruz Pedernera","Monday, 13 April 2026, 10:13 PM","Monday, 13 April 2026, 10:13 PM",1,"Ejercicio de Git","Ejercicio realizado con Lautaro Meichtri, legajo 408685
+https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413679/utils-413679-408685.git",2,0,0,0,0,0,0,,8,158
+176546,85850,173938,214702,"Juan Cruz Pedernera","Monday, 13 April 2026, 10:14 PM","Monday, 13 April 2026, 10:14 PM",1,"Ejercicio HTML",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413679/413679_ejercicio_html.git,2,0,0,0,0,0,0,,1,111
+176547,85941,174246,214702,"Juan Cruz Pedernera","Monday, 13 April 2026, 10:14 PM","Monday, 13 April 2026, 10:14 PM",1,"Ejercicio CSS + Bootstrap",https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/413679/413679_ejercicio_css.git,2,0,0,0,0,0,0,,1,110
+176549,86385,175382,215610,"Victoria Fajardo Carranza","Monday, 13 April 2026, 10:40 PM","Monday, 13 April 2026, 10:41 PM",1,ejercicio_paises_europa,"Corrijo a: 408720 Audisio Gustavo, ejercicio “ejercicio_paises_europa”
+link repositorio labsys: https://labsys.frc.utn.edu.ar/gitlab/desarrollo-de-software1/proyectos2026/3k1/408720/actividad-paises-europa-408720.git
+funciona Paso 1: SI
+funciona Paso2: SI
+funciona Paso 3 SI
+funciona Paso 4: SI
+funciona Paso 5: SI
+funciona Paso 6: SI
+Observaciones: El trabajo está completo y realizado correctamente.",2,0,0,0,0,0,0,,42,360
