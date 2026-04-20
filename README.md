@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Esta guía fue migrada y recibirá nuevas actualizaciones en: https://git.ffede.ar/fede/DDS-Seguimiento-Actividades
+
 # Guía de Scripts - DDS Seguimiento de Actividades
 
 El siguiente README.md, juntos con sus archivos, propone establecer una pequeña guía para el uso de los scripts, inclyendo:
